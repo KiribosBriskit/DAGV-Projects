@@ -1,0 +1,79 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<toolbar>
+ <layout location="user" name="Drawing"/>
+ <layout location="user" name="Timeline"/>
+ <layout location="user" name="Overview"/>
+ <layout location="user" name="Horizontal"/>
+ <layout location="user" name="Vertical"/>
+ <layout location="user" name="Pitch Mode"/>
+ <layout location="user" name="PDF Review"/>
+ <layout location="user" name="3D View"/>
+ <globalToolbar toolbarName="Camera">
+  <entry name="ADD_START_CAMERA_KEYFRAME"/>
+  <entry name="ADD_CURRENT_CAMERA_KEYFRAME"/>
+  <entry name="ADD_END_CAMERA_KEYFRAME"/>
+  <entry name="COPY_CAMERA"/>
+  <entry name="PASTE_CAMERA"/>
+  <entry name="PASTE_AND_SPREAD_CAMERA"/>  
+  <entry name="CreateHorizontalAlignmentGuides"/>
+  <entry name="CreateVerticalAlignmentGuides"/>
+ </globalToolbar>
+ <globalToolbar toolbarName="DrawingToolToolbar">
+  <entry name="SelectTool"/>
+  <entry name="SelectToolByColor"/>
+  <entry name="CutterTool"/>
+  <entry name="PenEditorTool"/>
+  <entry name="PerspectiveTool"/>
+  <entry name="BrushTool"/>
+  <entry name="PencilTool"/>
+  <entry name="LineTool"/>
+  <entry name="EraserTool"/>
+  <entry name="TextTool"/>
+  <entry name="PaintToolInPaintMode"/>
+  <entry name="PaintToolInPaintUnpaintedMode"/>
+  <entry name="PaintToolInUnpaintMode"/>
+  <entry name="DropperTool"/>
+  <entry name="ZoomTool"/>
+  <entry name="LayerTransformTool"/>
+  <entry name="CameraTransformTool"/>
+  <entry name="Flatten"/>
+ </globalToolbar>
+ <globalToolbar toolbarName="Layer">
+  <entry name="ADD_VECTOR_LAYER"/>
+  <entry name="ADD_BITMAP_LAYER"/>
+  <entry name="DELETE_LAYER"/>
+  <entry name="LOCK_LAYER"/>
+  <entry name="DRAWING_AUTO_LIGHT_TABLE_KEY"/>
+ </globalToolbar>
+ <viewToolbar areaName="Reference View">
+  <entry name="MODEL_LOAD"/>
+  <entry name="MODEL_PREVIOUS_DRAWING"/>
+  <entry name="MODEL_NEXT_DRAWING"/>
+  <entry name="MODEL_DROPPER"/>
+  <entry name="MODEL_ZOOM"/>
+  <entry name="SelectTool"/>
+  <entry name="DRAWING_CUTTER"/>
+ </viewToolbar>
+ <globalToolbar toolbarName="Navigation">
+  <entry name="FIRST_FRAME"/>
+  <entry name="LAST_FRAME"/>
+ </globalToolbar>
+ <globalToolbar toolbarName="Sound">
+  <entry name="NEW_SOUNDTRACK"/>
+  <entry name="DEL_SOUNDTRACK"/>
+  <entry name="IMPORT_SOUND"/>
+  <entry name="DELETE_SOUND"/>
+ </globalToolbar>
+ <globalToolbar toolbarName="Storyboard">
+  <entry name="ENABLE_SHOT_3D"/>
+  <entry name="RESET_SHOT_TO_2D"/>
+  <entry name="CREATE_PANEL"/>
+  <entry name="CREATE_SCENE"/>
+  <entry name="CREATE_SEQUENCE"/>
+  <entry name="SMART_ADD_PANEL"/>
+  <entry name="DUPLICATE_PANEL"/>
+  <entry name="DELETE_PANEL"/>
+  <entry name="CREATE_TRANS"/>
+  <entry name="DELETE_TRANS"/>
+ </globalToolbar>
+</toolbar>

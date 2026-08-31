@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<preferences>
+ <string value="2026-04-21T11:41:28" id="COUNTLY_LASTDAILY_c4087f37-d0cf-474f-6e04-3c28def03a109f07b435a132d89680ef2ba89c81f80de6f969f8"/>
+ <string value="2026-08-31T09:58:55" id="COUNTLY_LASTDAILY_c4087f37-d0cf-474f-6e04-3c28def03a10ea28766018b470d29a28aaabbd091daf300f0d30"/>
+ <bool value="Y" id="DARK_STYLE_SHEET"/>
+ <bool value="Y" id="DARK_STYLE_SHEET_SB"/>
+ <string value="" id="LANGUAGE_25_0"/>
+ <string value="" id="LANGUAGE_SB_25_0"/>
+ <string value="" id="LAST_LOGIN_NAME"/>
+ <bool value="Y" id="LAST_LOGIN_WAS_LOCAL"/>
+ <string value="disabled" id="TELEMETRY_SERVICE_25_0"/>
+ <string value="disabled" id="TELEMETRY_SERVICE_SBOARD_25_0"/>
+</preferences>

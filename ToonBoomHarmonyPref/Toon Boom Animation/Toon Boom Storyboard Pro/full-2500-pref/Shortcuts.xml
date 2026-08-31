@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<shortcuts currentFlavour="Toon Boom Storyboard" >
+ <flavour id="Toon Boom Harmony" />
+ <shortcut id="CANVAS_HAND_TOOL_KEY" >
+  <flavour id="Toon Boom Storyboard" key="W" />
+ </shortcut>
+ <shortcut id="DRAWING_ERASER_TOOL_KEY" >
+  <flavour id="Toon Boom Storyboard" key="E" />
+ </shortcut>
+ <shortcut id="UNDO_KEY" >
+  <flavour id="Toon Boom Storyboard" key="Z" />
+ </shortcut>
+ <shortcut id="REDO_KEY" >
+  <flavour id="Toon Boom Storyboard" key="Shift+Z" />
+ </shortcut>
+ <shortcut id="DRAWING_ZOOM_TOOL_KEY" >
+  <flavour id="Toon Boom Storyboard" key="" />
+ </shortcut>
+ <shortcut id="RESET_ZOOM_KEY" >
+  <flavour id="Toon Boom Storyboard" key="" />
+ </shortcut>
+ <shortcut id="DRAWING_PENCIL_TOOL_KEY" >
+  <flavour id="Toon Boom Storyboard" key="Q" />
+ </shortcut>
+</shortcuts>

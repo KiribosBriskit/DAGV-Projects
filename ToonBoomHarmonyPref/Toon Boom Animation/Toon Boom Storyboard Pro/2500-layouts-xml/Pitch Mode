@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE layout>
+<layout fixedConfiguration="true" condition="hasPitchMode">
+ <position width="1281" x="0" y="0" height="1025" fullscreen="1" />
+ <frame ratio="1" currentView="0" commandId="0" brotherIndex="-1" >
+  <position width="160" x="0" y="0" height="1023" />
+  <view caption="Thumbnails" areaName="Thumbnails" >
+   <prefs viewMode="1" />
+  </view>
+ </frame>
+ <frame currentView="0" ratio="0.828197" brotherIndex="0" commandId="2">
+  <position width="329" x="1591" y="0" height="1080"/>
+  <view caption="Panel" areaName="Panel"/>
+ </frame>
+ <frame currentView="0" ratio="0.126357" brotherIndex="0" commandId="2">
+  <position width="1375" x="0" y="0" height="887"/>
+  <view caption="Stage View" areaName="Stage View"/>
+ </frame>
+ <frame currentView="0" ratio="0.828198" brotherIndex="2" commandId="1">
+  <position width="1375" x="0" y="896" height="184"/>
+  <view caption="Pitch Mode View" areaName="Pitch Mode View"/>
+ </frame>
+ <toolbars>
+  <toolbar width="-1" x="0" offset="0" y="0" dockarea="top" newline="true" height="-1" toolBarArea="top" orientation="h" index="0" name="FileToolbar" visible="false" />
+  <toolbar width="-1" x="135" offset="0" y="0" dockarea="top" newline="false" height="-1" toolBarArea="top" orientation="h" index="1" name="EditToolbar" visible="false" />
+  <toolbar width="-1" x="339" offset="339" y="0" dockarea="top" newline="false" height="-1" toolBarArea="top" orientation="h" index="2" name="Workspace" visible="false" />
+  <toolbar width="-1" x="461" offset="0" y="0" dockarea="top" newline="false" height="-1" toolBarArea="top" orientation="h" index="3" name="ViewToolbar" visible="false" />
+  <toolbar width="-1" x="536" offset="0" y="0" dockarea="top" newline="false" height="-1" toolBarArea="top" orientation="h" index="4" name="Storyboard" visible="false" />
+  <toolbar width="-1" x="461" offset="0" y="0" dockarea="top" newline="false" height="-1" toolBarArea="top" orientation="h" index="5" name="Playback" visible="false" />
+  <toolbar width="-1" x="0" offset="0" y="0" dockarea="top" newline="false" height="-1" toolBarArea="top" orientation="h" index="6" name="tScripting" visible="false" />
+  <toolbar width="-1" x="624" offset="0" y="0" dockarea="top" newline="false" height="-1" toolBarArea="top" orientation="h" index="7" name="Onion Skin" visible="false" />
+  <toolbar width="-1" x="0" offset="0" y="0" dockarea="top" newline="false" height="-1" toolBarArea="top" orientation="h" index="8" name="Navigation" visible="false" />
+  <toolbar width="-1" x="0" offset="0" y="0" dockarea="top" newline="false" height="-1" toolBarArea="top" orientation="h" index="9" name="Tool Presets" visible="false" />
+  <toolbar width="-1" x="0" offset="0" y="0" dockarea="top" newline="true" height="-1" toolBarArea="top" orientation="h" index="10" name="Sound" visible="false" />
+  <toolbar width="-1" x="0" offset="0" y="0" dockarea="top" newline="true" height="-1" toolBarArea="top" orientation="v" index="11" name="DrawingToolToolbar" visible="false" />
+  <toolbar width="-1" x="0" offset="0" y="0" dockarea="top" newline="true" height="-1" toolBarArea="top" orientation="v" index="12" name="Layer" visible="false" />
+  <toolbar width="-1" x="0" offset="0" y="0" dockarea="top" newline="false" height="-1" toolBarArea="top" orientation="h" index="13" name="Camera" visible="false" />
+ </toolbars>
+ <area areaName="Stage View" />
+ <area areaName="Colour" >
+  <position width="437" docked="1" x="922" y="97" height="880" />
+ </area>
+ <area areaName="Library" >
+  <position width="437" docked="1" x="922" y="97" height="880" />
+ </area>
+ <area areaName="Message Log" />
+ <area areaName="Tool Properties" >
+  <position width="242" docked="1" x="1042" y="78" height="567" />
+  <position width="437" docked="1" x="922" y="97" height="880" />
+ </area>
+ <area areaName="Metadata Viewer" />
+ <area areaName="Timeline" >
+  <position width="1323" docked="1" x="36" y="771" height="196" />
+ </area>
+ <area areaName="Panel" />
+ <area areaName="Storyboard" >
+  <position width="437" docked="1" x="922" y="97" height="880" />
+ </area>
+ <area areaName="Thumbnails" />
+ <area areaName="Pitch Mode View" />
+</layout>

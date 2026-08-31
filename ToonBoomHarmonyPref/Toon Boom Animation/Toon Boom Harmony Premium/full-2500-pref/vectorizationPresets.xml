@@ -1,0 +1,15 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<presets>
+  <preset id="Black and White">
+    <settings>
+      <current><![CDATA[-no_texture]]></current>
+      <default><![CDATA[-no_texture]]></default>
+    </settings>
+  </preset>
+  <preset id="Grey">
+    <settings>
+      <current><![CDATA[]]></current>
+      <default><![CDATA[]]></default>
+    </settings>
+  </preset>
+</presets>

@@ -1,0 +1,101 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<shortcuts currentFlavour="Toon Boom Harmony" >
+ <flavour id="Adobe Flash" />
+ <flavour id="Toon Boom Studio" />
+ <shortcut id="UNDO_KEY" >
+  <flavour id="Toon Boom Harmony" key="Z" />
+ </shortcut>
+ <shortcut id="REDO_KEY" >
+  <flavour id="Toon Boom Harmony" key="Shift+Z" />
+ </shortcut>
+ <shortcut id="QUICK_CLOSE_UP_KEY" >
+  <flavour id="Toon Boom Harmony" key="Ctrl+Shift+Z" />
+ </shortcut>
+ <shortcut id="TOGGLE_PLAYBACK_KEY" >
+  <flavour id="Toon Boom Harmony" key="Shift+Space" />
+ </shortcut>
+ <shortcut id="TOGGLE_PEG_SELECT_MODE" >
+  <flavour id="Toon Boom Harmony" key="V" />
+ </shortcut>
+ <shortcut id="TL_MARK_CURRENT_FRAME" >
+  <flavour id="Toon Boom Harmony" key="Ins" />
+ </shortcut>
+ <shortcut id="TL_MARK_FRAME_RED" >
+  <flavour id="Toon Boom Harmony" key="!" />
+ </shortcut>
+ <shortcut id="TL_MARK_FRAME_ORANGE" >
+  <flavour id="Toon Boom Harmony" key="@" />
+ </shortcut>
+ <shortcut id="TL_MARK_FRAME_YELLOW" >
+  <flavour id="Toon Boom Harmony" key="#" />
+ </shortcut>
+ <shortcut id="TL_MARK_FRAME_GREEN" >
+  <flavour id="Toon Boom Harmony" key="$" />
+ </shortcut>
+ <shortcut id="TL_MARK_FRAME_CYAN" >
+  <flavour id="Toon Boom Harmony" key="%" />
+ </shortcut>
+ <shortcut id="TL_MARK_FRAME_BLUE" >
+  <flavour id="Toon Boom Harmony" key="^" />
+ </shortcut>
+ <shortcut id="TL_MARK_FRAME_PURPLE" >
+  <flavour id="Toon Boom Harmony" key="&amp;" />
+ </shortcut>
+ <shortcut id="TL_MARK_FRAME_PINK" >
+  <flavour id="Toon Boom Harmony" key="*" />
+ </shortcut>
+ <shortcut id="TL_MARK_FRAME_WHITE" >
+  <flavour id="Toon Boom Harmony" key="(" />
+ </shortcut>
+ <shortcut id="TL_MARK_FRAME_BLACK" >
+  <flavour id="Toon Boom Harmony" key=")" />
+ </shortcut>
+ <shortcut id="TL_MARK_FRAME_REMOVE" >
+  <flavour id="Toon Boom Harmony" key="_" />
+ </shortcut>
+ <shortcut id="NV_EXIT_GROUP_KEY" >
+  <flavour id="Toon Boom Harmony" key="Shift+W" />
+ </shortcut>
+ <shortcut id="NV_MAGNIFIER_KEY" >
+  <flavour id="Toon Boom Harmony" key="" />
+ </shortcut>
+ <shortcut id="NV_CREATE_BACKDROP" >
+  <flavour id="Toon Boom Harmony" key="Ins" />
+ </shortcut>
+ <shortcut id="TOGGLE_CABLE_CUTTER" >
+  <flavour id="Toon Boom Harmony" key="Shift+C" />
+ </shortcut>
+ <shortcut id="DELETE_COLUMNS_KEY" >
+  <flavour id="Toon Boom Harmony" key="Shift+Del" />
+ </shortcut>
+ <shortcut id="DRAWING_ERASER_TOOL_KEY" >
+  <flavour id="Toon Boom Harmony" key="E" />
+ </shortcut>
+ <shortcut id="DRAWING_PENCIL_TOOL_KEY" >
+  <flavour id="Toon Boom Harmony" key="Q" />
+ </shortcut>
+ <shortcut id="DRAWING_PENCIL_EDITOR_TOOL_KEY" >
+  <flavour id="Toon Boom Harmony" key="Alt+Q" />
+ </shortcut>
+ <shortcut id="DRAWING_MERGE_PENCIL_LINES" >
+  <flavour id="Toon Boom Harmony" key="Alt+J" />
+ </shortcut>
+ <shortcut id="DEFORMATION_SHOW_CURRENT_DEFORMER" >
+  <flavour id="Toon Boom Harmony" key="Ctrl+Shift+D" />
+ </shortcut>
+ <shortcut id="DRAWING_CONTOUR_EDITOR_TOOL_KEY" >
+  <flavour id="Toon Boom Harmony" key="Alt+K" />
+ </shortcut>
+ <shortcut id="DRAWING_ZOOM_TOOL_KEY" >
+  <flavour id="Toon Boom Harmony" key="" />
+ </shortcut>
+ <shortcut id="DRAWING_CENTERLINE_EDITOR_TOOL_KEY" >
+  <flavour id="Toon Boom Harmony" key="" />
+ </shortcut>
+ <shortcut id="CANVAS_HAND_TOOL_KEY" >
+  <flavour id="Toon Boom Harmony" key="W" />
+ </shortcut>
+ <shortcut id="DRAWING_SHOW_STROKES_KEY" >
+  <flavour id="Toon Boom Harmony" key="Shift+K" />
+ </shortcut>
+</shortcuts>

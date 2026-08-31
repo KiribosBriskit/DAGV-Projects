@@ -1,0 +1,357 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<preferences>
+ <string value="" id="AMG_VIEW_RESOURCE_FOLDER"/>
+ <bool value="N" id="ANIMATE_WAS_NEVER_RUN"/>
+ <color red="154" green="7" alpha="255" id="BACKDROP_COLOR_0" blue="7"/>
+ <color red="193" green="23" alpha="255" id="BACKDROP_COLOR_1" blue="23"/>
+ <color red="2" green="60" alpha="255" id="BACKDROP_COLOR_10" blue="190"/>
+ <color red="70" green="15" alpha="255" id="BACKDROP_COLOR_11" blue="227"/>
+ <color red="108" green="14" alpha="255" id="BACKDROP_COLOR_12" blue="156"/>
+ <color red="165" green="33" alpha="255" id="BACKDROP_COLOR_13" blue="163"/>
+ <color red="227" green="15" alpha="255" id="BACKDROP_COLOR_14" blue="160"/>
+ <color red="227" green="15" alpha="255" id="BACKDROP_COLOR_15" blue="105"/>
+ <color red="50" green="50" alpha="255" id="BACKDROP_COLOR_16" blue="50"/>
+ <color red="132" green="58" alpha="255" id="BACKDROP_COLOR_2" blue="22"/>
+ <color red="225" green="107" alpha="255" id="BACKDROP_COLOR_3" blue="20"/>
+ <color red="220" green="170" alpha="255" id="BACKDROP_COLOR_4" blue="50"/>
+ <color red="129" green="198" alpha="255" id="BACKDROP_COLOR_5" blue="21"/>
+ <color red="123" green="141" alpha="255" id="BACKDROP_COLOR_6" blue="3"/>
+ <color red="7" green="127" alpha="255" id="BACKDROP_COLOR_7" blue="4"/>
+ <color red="8" green="76" alpha="255" id="BACKDROP_COLOR_8" blue="24"/>
+ <color red="13" green="107" alpha="255" id="BACKDROP_COLOR_9" blue="88"/>
+ <int value="17" id="BACKDROP_COLOR_LIST_SIZE"/>
+ <int value="14" id="BACKDROP_DEFAULT_DESCRIPTION_SIZE"/>
+ <int value="14" id="BACKDROP_DEFAULT_TITLE_SIZE"/>
+ <color red="55" green="55" alpha="255" id="BACKDROP_INNER_STROKE_COLOR" blue="55"/>
+ <color red="55" green="55" alpha="255" id="BACKDROP_RESIZE_COLOR" blue="55"/>
+ <int value="220" id="BACKDROP_SELECTED_TRANSPARENCY"/>
+ <int value="170" id="BACKDROP_UNSELECTED_TRANSPARENCY"/>
+ <string value="{&quot;overshoot&quot;:true,&quot;auto_slide&quot;:false,&quot;auto_apply&quot;:false,&quot;size&quot;:&quot;med&quot;,&quot;auto_sel&quot;:false,&quot;sel&quot;:&quot;time&quot;,&quot;button_val&quot;:[-25,25,-125,-75,-25,0,25,75,125],&quot;button_mod&quot;:[-50,50,-150,-100,-50,0,50,100,150]}" id="BreakdownAssistant_Settings"/>
+ <string value="" id="CACHE_FOLDER_PATH"/>
+ <bool value="Y" id="COLORVIEW_SHOW_PALETTELIST"/>
+ <bool value="Y" id="COMPOSITE_DEFAULT_PASS_THROUGH"/>
+ <double value="0.01" id="DBL_FREE_FORM_DEFORMATION_STEP_SCALE"/>
+ <double value="0.01" id="DBL_FREE_FORM_DEFORMATION_STEP_WEIGHT"/>
+ <double value="1" id="DBL_PORTFILTER_SMALL_ZOOMSIZE"/>
+ <double value="0.1" id="DBL_STEP_2DPOSITION_X"/>
+ <double value="0.1" id="DBL_STEP_2DPOSITION_Y"/>
+ <double value="0.1" id="DBL_STEP_3DPOSITION_X"/>
+ <double value="0.1" id="DBL_STEP_3DPOSITION_Y"/>
+ <double value="0.1" id="DBL_STEP_3DPOSITION_Z"/>
+ <double value="1" id="DBL_STEP_ANGLE"/>
+ <double value="1" id="DBL_STEP_ANGLE_SKEW"/>
+ <double value="0.1" id="DBL_STEP_APPLYFOCUS_MULTIPLIER"/>
+ <double value="0.1" id="DBL_STEP_ASPECT_RATIO"/>
+ <double value="0.1" id="DBL_STEP_BLURRINESS"/>
+ <double value="0.1" id="DBL_STEP_BLUR_VARIANCE"/>
+ <double value="1" id="DBL_STEP_BRIGHTNESSCONTRAST_BRIGHTNESS_ADJUST"/>
+ <double value="1" id="DBL_STEP_BRIGHTNESSCONTRAST_CONTRAST_ADJUST"/>
+ <double value="1" id="DBL_STEP_CAMERA_ANGLE"/>
+ <double value="1" id="DBL_STEP_CAMERA_FAR_PLANE"/>
+ <double value="0.5" id="DBL_STEP_CAMERA_FOV"/>
+ <double value="1" id="DBL_STEP_CAMERA_NEAR_PLANE"/>
+ <double value="0.2" id="DBL_STEP_COLORCARD_OFFSET_Z"/>
+ <double value="0.1" id="DBL_STEP_COLORSCALE_ALPHA"/>
+ <double value="0.1" id="DBL_STEP_COLORSCALE_BLUE"/>
+ <double value="0.1" id="DBL_STEP_COLORSCALE_GREEN"/>
+ <double value="0.1" id="DBL_STEP_COLORSCALE_HUE"/>
+ <double value="0.1" id="DBL_STEP_COLORSCALE_RED"/>
+ <double value="0.1" id="DBL_STEP_COLORSCALE_SATURATION"/>
+ <double value="0.1" id="DBL_STEP_COLORSCALE_VALUE"/>
+ <double value="0.1" id="DBL_STEP_COLORSCREEN_BLUE_MAX"/>
+ <double value="0.1" id="DBL_STEP_COLORSCREEN_BLUE_MIN"/>
+ <double value="0.1" id="DBL_STEP_COLORSCREEN_GREEN_MAX"/>
+ <double value="0.1" id="DBL_STEP_COLORSCREEN_GREEN_MIN"/>
+ <double value="0.1" id="DBL_STEP_COLORSCREEN_MATCH"/>
+ <double value="0.1" id="DBL_STEP_COLORSCREEN_RED_MAX"/>
+ <double value="0.1" id="DBL_STEP_COLORSCREEN_RED_MIN"/>
+ <double value="1" id="DBL_STEP_COLORTOBW_PERCENT"/>
+ <double value="0.1" id="DBL_STEP_COLOR_GAMMA"/>
+ <double value="0.1" id="DBL_STEP_COMPOSITE3D_MULTIPLIER"/>
+ <double value="1" id="DBL_STEP_CONSTRAINT_ACTIVE"/>
+ <double value="1" id="DBL_STEP_CONSTRAINT_RATIO"/>
+ <double value="0.1" id="DBL_STEP_CONSTRAINT_RATIOFLOAT"/>
+ <double value="0.1" id="DBL_STEP_CONTRAST_DARK_ADJUST"/>
+ <double value="0.1" id="DBL_STEP_CONTRAST_MIDPOINT"/>
+ <double value="0.1" id="DBL_STEP_CONTRAST_PIXEL_ADJUST"/>
+ <double value="0.1" id="DBL_STEP_CROP_OFFSET_X"/>
+ <double value="0.1" id="DBL_STEP_CROP_OFFSET_Y"/>
+ <double value="1" id="DBL_STEP_CUSTOMNAME_FIELD_CHART"/>
+ <double value="1" id="DBL_STEP_DIRBLUR_ANGLE"/>
+ <double value="0.1" id="DBL_STEP_DIRBLUR_FALLOFF_RATE"/>
+ <double value="0.1" id="DBL_STEP_DIRBLUR_RADIUS"/>
+ <double value="0.1" id="DBL_STEP_DITHER_MAGNITUDE"/>
+ <double value="1" id="DBL_STEP_DYN_INERTIA"/>
+ <double value="1" id="DBL_STEP_DYN_TENSION"/>
+ <double value="1" id="DBL_STEP_ELEMENT_MODULE_LINE_SMOOTHING_ERROR"/>
+ <double value="1" id="DBL_STEP_EXTERNAL_NUM_PARAM"/>
+ <double value="1" id="DBL_STEP_FADE_TRANSPARENCY"/>
+ <double value="0.1" id="DBL_STEP_FALLOFF"/>
+ <double value="0.01" id="DBL_STEP_GAMMA_ADJUST"/>
+ <double value="0.1" id="DBL_STEP_GLUE_BIAS"/>
+ <double value="0.1" id="DBL_STEP_GLUE_TENSION"/>
+ <double value="0.2" id="DBL_STEP_GRADIENT_OFFSET_Z"/>
+ <double value="0.01" id="DBL_STEP_GRAIN_NOISE"/>
+ <double value="0.01" id="DBL_STEP_GRAIN_SMOOTH"/>
+ <double value="0.1" id="DBL_STEP_INTERPOLATION"/>
+ <double value="0.1" id="DBL_STEP_LENGTH"/>
+ <double value="0.1" id="DBL_STEP_LINE_THICKNESS"/>
+ <double value="1" id="DBL_STEP_MATTEBLUR_ANGLE"/>
+ <double value="0.1" id="DBL_STEP_MATTEBLUR_COLOUR_GAIN"/>
+ <double value="1.79769e+308" id="DBL_STEP_MATTEBLUR_COLOUR_GAIN_MAX"/>
+ <double value="0" id="DBL_STEP_MATTEBLUR_COLOUR_GAIN_MIN"/>
+ <double value="0.1" id="DBL_STEP_MATTEBLUR_FALLOFF_RATE"/>
+ <double value="0.1" id="DBL_STEP_MATTEBLUR_RADIUS"/>
+ <double value="1" id="DBL_STEP_NB_FRAMES_TAIL"/>
+ <double value="5" id="DBL_STEP_NB_SAMPLES"/>
+ <double value="0.001" id="DBL_STEP_PIXELATE_FACTOR"/>
+ <double value="0.1" id="DBL_STEP_RADIALBLUR_RADIUS"/>
+ <double value="0.01" id="DBL_STEP_RADIAL_BLUR_QUALITY"/>
+ <double value="1" id="DBL_STEP_RAWELEMENT_AA_EXPONENT"/>
+ <double value="1" id="DBL_STEP_REFRACT_B"/>
+ <double value="1" id="DBL_STEP_REFRACT_M"/>
+ <double value="0.1" id="DBL_STEP_REFRACT_N"/>
+ <double value="1" id="DBL_STEP_REMTRANSPARENCY_THRESHOLD"/>
+ <double value="0.1" id="DBL_STEP_RESIZEMATTE_RADIUS"/>
+ <double value="0.01" id="DBL_STEP_SCALEATTR_X"/>
+ <double value="0.01" id="DBL_STEP_SCALEATTR_XY"/>
+ <double value="0.01" id="DBL_STEP_SCALEATTR_Y"/>
+ <double value="0.01" id="DBL_STEP_SCALEATTR_Z"/>
+ <double value="0.01" id="DBL_STEP_SCALE_LINE_THICKNESS"/>
+ <double value="0.1" id="DBL_STEP_SET_FOCUS"/>
+ <double value="0.1" id="DBL_STEP_VARBLUR_BLACK_RADIUS"/>
+ <double value="0.1" id="DBL_STEP_VARBLUR_WHITE_RADIUS"/>
+ <bool value="N" id="DEBUG_SEPARATE_TIR"/>
+ <bool value="N" id="DEBUG_VERIFY_DRAWING_FILES_EXIST"/>
+ <TUPencilDeformationQualityItem value="Low" id="DEFAULT_PENCIL_DEFORMATION_QUALITY"/>
+ <bool value="N" id="DEFAULT_PRESERVE_LINE_THICKNESS"/>
+ <bool value="Y" id="DRAWING_BRUSH_SIZE_CURSOR_ON"/>
+ <int value="10" id="DRAWING_CLOSE_GAP_VALUE"/>
+ <bool value="N" id="DRAWING_CLOSE_GAP_VALUE_IN_PIXEL"/>
+ <bool value="N" id="DRAWING_CREATE_EXTEND_EXPOSURE"/>
+ <int value="1" id="DRAWING_CUTTER_GESTURE_MODE"/>
+ <int value="1" id="DRAWING_CUTTER_GESTURE_TYPE"/>
+ <PencilTipModeItem value="RoundTip" id="DRAWING_CUTTER_TIP_MODE"/>
+ <bool value="Y" id="DRAWING_DEFAULT_COLOR_PICKER_IS_MULTIWHEEL"/>
+ <TUDrawingToolItem value="Pencil" id="DRAWING_INITIAL_TOOL"/>
+ <int value="1" id="DRAWING_LINE_TOOL_MODE"/>
+ <bool value="Y" id="DRAWING_ONIONSKIN_ADVANCED_MODE"/>
+ <string value="1;1;1;1;1;0;0;0;1;1" id="DRAWING_ONIONSKIN_ADV_NEXT_ON"/>
+ <string value="0.90;0.29;0.27;0.24;0.22;0.20;0.17;0.15;0.12;0.10" id="DRAWING_ONIONSKIN_ADV_PREV"/>
+ <string value="1;1;1;1;1;1;1;1;1;1" id="DRAWING_ONIONSKIN_ADV_PREV_ON"/>
+ <color red="170" green="0" alpha="255" id="DRAWING_ONION_SKIN_COLOR_BEFORE" blue="255"/>
+ <bool value="N" id="DRAWING_PENCIL_LINE_BUIDLING_MODE"/>
+ <string value="" id="DRAWING_PRESSURE_CURVE"/>
+ <bool value="Y" id="DRAWING_STABILIZER_CATCH_UP"/>
+ <bool value="Y" id="DRAWING_STABILIZER_SHOW_STRING"/>
+ <double value="20" id="DRAWING_STABILIZER_SMOOTHING"/>
+ <bool value="N" id="DRAWING_STABILIZER_WITH_ERASER"/>
+ <double value="10" id="DT_PencilRetouchSettingsOpacityFunctionIncrementMaxSize"/>
+ <double value="0" id="DT_PencilRetouchSettingsOpacityFunctionIncrementMinSizePercentage"/>
+ <double value="100" id="DT_PencilRetouchSettingsOpacityFunctionReplaceMaxSize"/>
+ <double value="0" id="DT_PencilRetouchSettingsOpacityFunctionReplaceMinSizePercentage"/>
+ <double value="100" id="DT_PencilRetouchSettingsOpacityFunctionSmoothMaxSize"/>
+ <double value="0" id="DT_PencilRetouchSettingsOpacityFunctionSmoothMinSizePercentage"/>
+ <double value="5" id="DT_PencilRetouchSettingsOpacityFunctionSmoothing"/>
+ <double value="100" id="DT_PencilRetouchSettingsRetouchRadius"/>
+ <double value="10" id="DT_PencilRetouchSettingsThicknessFunctionIncrementMaxSize"/>
+ <double value="0" id="DT_PencilRetouchSettingsThicknessFunctionIncrementMinSizePercentage"/>
+ <double value="100" id="DT_PencilRetouchSettingsThicknessFunctionReplaceMaxSize"/>
+ <double value="0" id="DT_PencilRetouchSettingsThicknessFunctionReplaceMinSizePercentage"/>
+ <double value="100" id="DT_PencilRetouchSettingsThicknessFunctionSmoothMaxSize"/>
+ <double value="0" id="DT_PencilRetouchSettingsThicknessFunctionSmoothMinSizePercentage"/>
+ <double value="5" id="DT_PencilRetouchSettingsThicknessFunctionSmoothing"/>
+ <int value="1024" id="DeformationConvertDrawingsTextureSize"/>
+ <color red="25" green="89" alpha="255" id="DeformationDeformedControlHandle" blue="42"/>
+ <color red="0" green="255" alpha="255" id="DeformationDeformedHandle" blue="0"/>
+ <color red="220" green="255" alpha="255" id="DeformationDeformedSelectedChild" blue="0"/>
+ <color red="255" green="255" alpha="255" id="DeformationDeformedSelectedSkeleton" blue="255"/>
+ <color red="0" green="255" alpha="255" id="DeformationDeformedSkeleton" blue="0"/>
+ <color red="87" green="106" alpha="255" id="DeformationModuleDarkColor" blue="54"/>
+ <color red="37" green="169" alpha="255" id="DeformationModuleLightColor" blue="25"/>
+ <color red="149" green="31" alpha="255" id="DeformationRestingControlHandle" blue="57"/>
+ <color red="255" green="0" alpha="255" id="DeformationRestingHandle" blue="0"/>
+ <color red="255" green="127" alpha="255" id="DeformationRestingSelectedChild" blue="0"/>
+ <color red="255" green="255" alpha="255" id="DeformationRestingSelectedSkeleton" blue="255"/>
+ <color red="255" green="0" alpha="255" id="DeformationRestingSkeleton" blue="0"/>
+ <double value="2" id="DeformationScalingFieldSize"/>
+ <double value="64" id="DeformationScalingPixelSize"/>
+ <bool value="N" id="DeformationScalingUsePixelSize"/>
+ <bool value="N" id="ELEMENT_CAN_BE_ANIMATED_DEFAULT_VALUE"/>
+ <bool value="N" id="ENABLE_EMBER"/>
+ <bool value="Y" id="ENABLE_EMBER_EXT"/>
+ <string value="" id="EXPORTMMX_AUDIOCONFIG"/>
+ <int value="0" id="EXPORTMMX_CUSTOMRESX"/>
+ <string value="Display" id="EXPORTMMX_DISPLAY"/>
+ <bool value="N" id="EXPORTMMX_EXPORTALL"/>
+ <string value="" id="EXPORTMMX_LASTCOLORSPACE"/>
+ <string value="Ball_Lab" id="EXPORTMMX_LASTSCENE_NAME"/>
+ <string value="C:/Users/11033142/Documents/DAGV-Projects/DAGV 2230 Animation 1/Ball_Lab/Ball_Stationary_Loop_V01.mov" id="EXPORTMMX_OUTPUTFILE"/>
+ <string value="openH264" id="EXPORTMMX_OUTPUTFORMAT"/>
+ <int value="1" id="EXPORTMMX_RANGESTART"/>
+ <int value="143" id="EXPORTMMX_RANGESTOP"/>
+ <int value="0" id="EXPORTMMX_RESOLUTION"/>
+ <string value="" id="EXPORTMMX_VIDEOAUDIOCONFIG"/>
+ <string value="" id="EXPORTMMX_VIDEOCONFIG"/>
+ <bool value="N" id="EXTEND_DRAWING_EXPOSURE"/>
+ <bool value="N" id="Editors > Brush Properties > Dual Tip > Randomness"/>
+ <bool value="N" id="Editors > Brush Properties > Tip > Randomness"/>
+ <string value="C:/Users/11033142/Documents/DAGV-Projects/DAGV 2230 Animation 1/Unit 02 Anticipation/Doppler References" id="FILE_SYSTEM_SAVED_PATH"/>
+ <bool value="Y" id="FOCUS_ON_MOUSE_ENTER"/>
+ <bool value="Y" id="GUIDE_ALIGN_ENABLED"/>
+ <bool value="N" id="GUIDE_ENABLED"/>
+ <bool value="N" id="GUIDE_ERASER_ENABLED"/>
+ <bool value="Y" id="GUIDE_FULL_DISPLAY_ENABLED"/>
+ <int value="10" id="GUIDE_GRID_DENSITY"/>
+ <bool value="N" id="GUIDE_GRID_ENABLED"/>
+ <bool value="Y" id="GUIDE_LOCK_ENABLED"/>
+ <bool value="N" id="IMPORTIMGDLG_IMAGE_ADDTOLAYER"/>
+ <int value="4" id="IMPORTIMGDLG_IMAGE_ALIGNMENT"/>
+ <bool value="Y" id="IMPORTIMGDLG_IMAGE_BITMAP_ART"/>
+ <int value="6" id="IMPORTIMGDLG_IMAGE_BITMAP_LAYER_ALIGNMENT"/>
+ <int value="2" id="IMPORTIMGDLG_IMAGE_BITMAP_LAYER_TRANSPARENCY"/>
+ <bool value="N" id="IMPORTIMGDLG_IMAGE_ELEMENTONFILENAME"/>
+ <string value="C:/Users/11033142/Documents/DAGV-Projects/DAGV 2230 Animation 1/Unit 02 Anticipation/Doppler References/Doppler Anticipation Frame.png" id="IMPORTIMGDLG_IMAGE_LASTIMPORT"/>
+ <string value="Doppler_Pencil_Test_04" id="IMPORTIMGDLG_IMAGE_LAYERNAME"/>
+ <bool value="Y" id="IMPORTIMGDLG_IMAGE_NEWLAYER"/>
+ <string value="Doppler_Anticipation_Frame" id="IMPORTIMGDLG_IMAGE_NEWLAYERNAME"/>
+ <bool value="Y" id="IMPORTIMGDLG_IMAGE_ONEELEMENT"/>
+ <int value="2" id="IMPORTIMGDLG_IMAGE_TRANSPARENCY"/>
+ <string value="Grey" id="IMPORTIMGDLG_IMAGE_VECTORIZATION"/>
+ <bool value="N" id="IMPORTIMGDLG_IMAGE_VECTORIZE"/>
+ <bool value="N" id="IMPORTIMGDLG_MOVIE_ADDTOLAYER"/>
+ <int value="4" id="IMPORTIMGDLG_MOVIE_ALIGNMENT"/>
+ <bool value="Y" id="IMPORTIMGDLG_MOVIE_BITMAP_ART"/>
+ <int value="6" id="IMPORTIMGDLG_MOVIE_BITMAP_LAYER_ALIGNMENT"/>
+ <int value="2" id="IMPORTIMGDLG_MOVIE_BITMAP_LAYER_TRANSPARENCY"/>
+ <bool value="N" id="IMPORTIMGDLG_MOVIE_ELEMENTONFILENAME"/>
+ <string value="" id="IMPORTIMGDLG_MOVIE_LAYERNAME"/>
+ <bool value="Y" id="IMPORTIMGDLG_MOVIE_NEWLAYER"/>
+ <string value="Doppler_Pencil_Test_04" id="IMPORTIMGDLG_MOVIE_NEWLAYERNAME"/>
+ <bool value="Y" id="IMPORTIMGDLG_MOVIE_ONEELEMENT"/>
+ <int value="2" id="IMPORTIMGDLG_MOVIE_TRANSPARENCY"/>
+ <string value="Grey" id="IMPORTIMGDLG_MOVIE_VECTORIZATION"/>
+ <bool value="N" id="IMPORTIMGDLG_MOVIE_VECTORIZE"/>
+ <string value="2026-08-31T09:25:53" id="LATESTNEWS_LAST_CHECK"/>
+ <string value="25.0:697a396405363ccc6b676e7d54e7025b960cfbcffd4c7345a04669f71ea0865a" id="LATESTNEWS_VERSION"/>
+ <int value="250" id="LEVELS_OF_UNDO"/>
+ <bool value="N" id="LIBRARY_AUTO_GENERATE_THUMBNAILS"/>
+ <bool value="N" id="LockAlignmentGuides"/>
+ <bool value="Y" id="NAVIGATE_USING_NODE_VIEW_PARENTING"/>
+ <string value="C:/Users/11033142/Documents/DAGV-Projects/DAGV 2230 Animation 1/Unit 02 Anticipation$C:/Users/11033142/Documents/DAGV-Projects/DAGV 2230 Animation 1/Pendulum$C:/Users/11033142/Documents/DAGV 2230 Animation 1" id="NEW_SCENE_SAVED_PATH"/>
+ <bool value="N" id="NV_EXPOSE_DRAWING_FOR_SCENE_DURATION"/>
+ <bool value="N" id="NV_PAN_ON_MIDDLE_MOUSE_BUTTON"/>
+ <bool value="N" id="PALETTE_BROWSER_RECOLOR_SELECTED"/>
+ <double value="1" id="PARTICLE_ANGLE_STEP"/>
+ <double value="0.05" id="PARTICLE_FIELD_STEP"/>
+ <double value="0.01" id="PARTICLE_MAGNITUDE_STEP"/>
+ <double value="1" id="PARTICLE_UNIT_STEP"/>
+ <bool value="Y" id="PEG_DEFAULT_SEPARATE_POSITION"/>
+ <int value="-1" id="PENSTYLE_BITMAP_BRUSH_LIST_SEL"/>
+ <int value="-1" id="PENSTYLE_BITMAP_ERASER_LIST_SEL"/>
+ <int value="12" id="PENSTYLE_BRUSH_LIST_SEL"/>
+ <int value="0" id="PENSTYLE_ERASER_LIST_SEL"/>
+ <int value="3" id="PENSTYLE_PENCIL_LIST_SEL"/>
+ <int value="0" id="PENSTYLE_STAMP_LIST_SEL"/>
+ <int value="0" id="PERSPECTIVE_NAVIGATION_VERSION"/>
+ <bool value="N" id="PLAYBACK_IN_PERSPECTIVE_VIEW_ENABLED"/>
+ <bool value="N" id="PLAYBACK_IN_SIDE_VIEW_ENABLED"/>
+ <bool value="N" id="PLAYBACK_IN_TOP_VIEW_ENABLED"/>
+ <bool value="N" id="PLAYBACK_IN_XSHEET_VIEW_ENABLED"/>
+ <bool value="N" id="PLAY_ENABLE_SOUND"/>
+ <string value="flavour" id="PREFERENCE_SET"/>
+ <string value="" id="PYTHONPATH"/>
+ <color red="181" green="71" alpha="255" id="ParticleNV_actionColor" blue="255"/>
+ <color red="226" green="208" alpha="255" id="ParticleNV_bakerColor" blue="110"/>
+ <color red="9" green="225" alpha="255" id="ParticleNV_regionColor" blue="163"/>
+ <color red="153" green="200" alpha="255" id="ParticleNV_regionCompositeColor" blue="125"/>
+ <color red="0" green="200" alpha="255" id="ParticleNV_shapeColor" blue="200"/>
+ <color red="75" green="120" alpha="255" id="ParticleNV_systemCompositeColor" blue="244"/>
+ <color red="154" green="24" alpha="255" id="ParticleNV_visualizerColor" blue="255"/>
+ <bool value="N" id="ParticleShowParticlesAsDotsInOpenGL"/>
+ <string value="C:/Users/11033142/Documents/DAGV-Projects/DAGV 2230 Animation 1/Unit 02 Anticipation/Anticipation_Lab/Anticipation_Lab.xstage$C:/Users/11033142/Documents/DAGV 2230 Animation 1/Ball_Lab/Ball_Lab.xstage$C:/Users/11033142/Documents/DAGV1600/Seagull_Animation/Seagull_Animation.xstage$C:/Users/11033142/Documents/Ball2/Ball2.xstage$C:/Users/11033142/Documents/Ball/Ball.xstage" id="RECENT_SCENES_LIST"/>
+ <bool value="Y" id="RENDER_ENABLE_WYSIWYG_PASSTHROUGH_FOR_ALL_EFFECTS"/>
+ <int value="6407" id="RENDER_TEXTUREMEMORY"/>
+ <string value="C:/Users/11033142/Documents/DAGV1600/DeleteMe" id="SCENE_LEVEL_SAVED_PATH"/>
+ <bool value="Y" id="SHORTCUT_ZOOM_ON_MOUSE"/>
+ <bool value="Y" id="SOFT_RENDER_ENABLE_AUTO_RENDER"/>
+ <bool value="N" id="SOFT_RENDER_ENABLE_PROGRESSIVE_PREVIEW"/>
+ <int value="10" id="SOFT_RENDER_MAX_CONCURENT_GPU_COMPUTE_JOBS"/>
+ <double value="1" id="SOFT_RENDER_PREVIEW_RESOLUTION_SCALE_FACTOR"/>
+ <int value="25" id="SOFT_RENDER_REGULATOR_IMAGE_MEMORY_PERCENT"/>
+ <int value="0" id="SOFT_RENDER_SCRIPT_PER_ALLOCATED_FRAME"/>
+ <bool value="Y" id="STAGE_AUTOSAVE_PROJECT_ENABLED"/>
+ <bool value="Y" id="STENCIL_BRUSH_TOOL_MODE"/>
+ <double value="0.1" id="STEP_TURBULENCE_EVOLUTION"/>
+ <double value="0.1" id="STEP_TURBULENCE_EVOLUTION_FREQUENCY"/>
+ <double value="0.1" id="STEP_TURBULENCE_FREQUENCY"/>
+ <double value="0.01" id="STEP_TURBULENCE_GAIN"/>
+ <double value="0.01" id="STEP_TURBULENCE_LACUNARITY"/>
+ <double value="0.1" id="STEP_TURBULENCE_SEED"/>
+ <int value="0" id="ShiftAndTracePegPosition"/>
+ <bool value="Y" id="ShiftAndTraceShowCrossHair"/>
+ <bool value="Y" id="ShiftAndTraceShowManipulator"/>
+ <bool value="N" id="ShiftAndTraceShowOutline"/>
+ <bool value="Y" id="ShiftAndTraceShowPegs"/>
+ <bool value="Y" id="ShowAlignmentGuides"/>
+ <int value="8" id="TIMELINE_EXTRATRACK_CELL_WIDTH_NO_HDPI"/>
+ <bool value="Y" id="TIMELINE_REDUCE_INDENTATION"/>
+ <int value="6" id="TIMELINE_TRACK_CELL_WIDTH_NO_HDPI"/>
+ <bool value="Y" id="TL_DRAG_SLIDE"/>
+ <bool value="N" id="TL_LAYERCONNECTION_VISIBLE"/>
+ <bool value="Y" id="TL_LAYERDATAVIEW_VISIBLE"/>
+ <bool value="N" id="TOOL_APPLY_TO_ALL_LAYERS"/>
+ <bool value="N" id="TOOL_AUTO_FILL_BRUSH"/>
+ <bool value="N" id="TOOL_AUTO_FILL_ELLIPSE"/>
+ <bool value="N" id="TOOL_AUTO_FILL_PEN"/>
+ <bool value="N" id="TOOL_AUTO_FILL_POLYLINE"/>
+ <bool value="N" id="TOOL_AUTO_FILL_RECT"/>
+ <bool value="N" id="TOOL_AUTO_FILL_STROKE"/>
+ <bool value="Y" id="TOOL_BOUNDING_BOX_MOVABLE"/>
+ <bool value="N" id="TOOL_LINE_MODE_STROKE"/>
+ <int value="0" id="TOOL_MERGE_WITH_TOP_LAYER_MODE"/>
+ <bool value="N" id="TOOL_SNAP_MODE_STROKE"/>
+ <double value="3" id="TOOL_STROKE_SMOOTH_VALUE"/>
+ <bool value="N" id="TOOL_TRIM_EXTRA_PEN"/>
+ <bool value="N" id="TOOL_TRIM_EXTRA_POLYLINE"/>
+ <bool value="N" id="TOOL_TRIM_EXTRA_STROKE"/>
+ <bool value="N" id="TOOL_TRIM_MATCH_PEN"/>
+ <bool value="N" id="TOOL_TRIM_MATCH_POLYLINE"/>
+ <bool value="N" id="TOOL_TRIM_MATCH_STROKE"/>
+ <bool value="Y" id="TOONBOOM_SURVEY_DISABLED"/>
+ <string value="" id="TOONBOOM_SURVEY_POSTPONED"/>
+ <int value="2" id="TP_BRUSH_PENSTYLELIST_DISPLAY_MODE"/>
+ <int value="1" id="TP_MOTION_CAPTURE_KEYFRAME_INTERVAL"/>
+ <int value="0" id="TP_MOTION_CAPTURE_SMOOTHING"/>
+ <int value="100" id="TP_MOTION_CAPTURE_SPEED"/>
+ <int value="2" id="TP_PENCIL_PANEL_PENSTYLELIST_DISPLAY_MODE"/>
+ <int value="2" id="TP_PEN_PENSTYLELIST_DISPLAY_MODE"/>
+ <int value="0" id="TP_POLYLINE_PENSTYLELIST_DISPLAY_MODE"/>
+ <int value="0" id="TP_SHAPE_PENSTYLELIST_DISPLAY_MODE"/>
+ <int value="3" id="TV_DEFAULT_VIEW"/>
+ <double value="20" id="ToolsSettingsCenterlineEditorCenterlineSmoothing"/>
+ <int value="1" id="ToolsSettingsCreateLayerMode"/>
+ <int value="0" id="ToolsSettingsCreateLayerType"/>
+ <double value="5" id="ToolsSettingsEnvelopeSmoothing"/>
+ <double value="100" id="ToolsSettingsMaskBrushMaxSize"/>
+ <double value="0" id="ToolsSettingsMaskBrushMinSizePercentage"/>
+ <double value="50" id="ToolsSettingsMaskOpacityPercentage"/>
+ <double value="0" id="ToolsSettingsMaskResizeRadius"/>
+ <double value="100" id="ToolsSettingsSmoothEditorMaxSize"/>
+ <double value="100" id="ToolsSettingsSmoothEditorMinSizePercentage"/>
+ <double value="20" id="ToolsSettingsSmoothEditorSmoothing"/>
+ <bool value="N" id="UNDOABLE_SELECTION"/>
+ <string value="2026-08-31T09:25:53" id="UP_LAST_UPDATE_CHECK"/>
+ <bool value="Y" id="USE_OVERLAY_UNDERLAY_ART"/>
+ <bool value="Y" id="WM_SHOW_WS_WEB_MESSAGE"/>
+ <bool value="Y" id="XSHEET_CENTRE_ON_CURRENT_FRAME"/>
+ <bool value="N" id="XSHEET_SHOW_3DPATH_COLS"/>
+ <bool value="N" id="XSHEET_SHOW_ANNOTATION_COLS"/>
+ <bool value="N" id="XSHEET_SHOW_FUNCTION_COLS"/>
+ <bool value="N" id="XSHEET_SHOW_SOUND_COLS"/>
+ <double value="0.1" id="Z_PARTITION_RANGE"/>
+ <bool value="Y" id="deformationCreatePosedDeformation"/>
+ <int value="455" id="editorHeight-Pencil Properties"/>
+ <int value="420" id="editorWidth"/>
+ <int value="360" id="particleImageEmitterHorizontalPreviewResolution"/>
+</preferences>

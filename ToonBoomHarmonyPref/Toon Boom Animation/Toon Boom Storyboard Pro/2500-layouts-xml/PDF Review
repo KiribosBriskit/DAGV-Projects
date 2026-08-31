@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE layout>
+<layout>
+ <position width="1680" x="-4" y="-4" height="1001" maximized="1" />
+ <frame ratio="1" currentView="0" commandId="0" brotherIndex="-1" >
+  <position width="1263" x="0" y="0" height="946" />
+  <view caption="Thumbnails" areaName="Thumbnails" >
+   <prefs viewMode="4" zoomLevel="4" />
+  </view>
+ </frame>
+ <frame ratio="0.770795" currentView="0" commandId="2" brotherIndex="0" >
+  <position width="377" x="0" y="0" height="494" />
+  <view caption="PDF Export" areaName="PDF Export" />
+ </frame>
+ <frame ratio="0.520087" currentView="0" commandId="1" brotherIndex="1" >
+  <position width="377" x="0" y="502" height="444" />
+  <view caption="Panel PDF Options" areaName="Panel PDF Options" />
+  <view caption="Layers" areaName="Layers" />
+ </frame>
+ <toolbars>
+  <toolbar width="-1" x="0" offset="0" y="0" dockarea="top" newline="true" height="-1" toolBarArea="top" orientation="h" index="0" name="FileToolbar" visible="true" />
+  <toolbar width="-1" x="135" offset="0" y="0" dockarea="top" newline="false" height="-1" toolBarArea="top" orientation="h" index="1" name="EditToolbar" visible="true" />
+  <toolbar width="-1" x="339" offset="339" y="0" dockarea="top" newline="false" height="-1" toolBarArea="top" orientation="h" index="2" name="Workspace" visible="false" />
+  <toolbar width="-1" x="469" offset="0" y="0" dockarea="top" newline="false" height="-1" toolBarArea="top" orientation="h" index="3" name="ViewToolbar" visible="true" />
+  <toolbar width="-1" x="544" offset="0" y="0" dockarea="top" newline="false" height="-1" toolBarArea="top" orientation="h" index="4" name="Storyboard" visible="true" />
+  <toolbar width="-1" x="769" offset="0" y="0" dockarea="top" newline="false" height="-1" toolBarArea="top" orientation="h" index="6" name="Playback" visible="true" />
+  <toolbar width="-1" x="624" offset="0" y="0" dockarea="top" newline="false" height="-1" toolBarArea="top" orientation="h" index="7" name="Onion Skin" visible="false" />
+  <toolbar width="-1" x="0" offset="0" y="0" dockarea="top" newline="false" height="-1" toolBarArea="top" orientation="h" index="5" name="Navigation" visible="true" />
+  <toolbar width="-1" x="0" offset="0" y="0" dockarea="top" newline="false" height="-1" toolBarArea="top" orientation="h" index="8" name="Tool Presets" visible="false" />
+  <toolbar width="-1" x="0" offset="0" y="0" dockarea="top" newline="true" height="-1" toolBarArea="top" orientation="h" index="9" name="Sound" visible="false" />
+  <toolbar width="-1" x="0" offset="0" y="0" dockarea="top" newline="false" height="-1" toolBarArea="top" orientation="h" index="10" name="Camera" visible="false" />
+  <toolbar width="-1" x="0" offset="0" y="0" dockarea="left" newline="true" height="-1" toolBarArea="left" orientation="v" index="0" name="DrawingToolToolbar" visible="true" />
+  <toolbar width="-1" x="0" offset="0" y="398" dockarea="left" newline="false" height="-1" toolBarArea="left" orientation="v" index="1" name="Layer" visible="true" />
+ </toolbars>
+ <area areaName="Stage View" >
+  <position width="1315" docked="1" x="36" y="87" height="880" />
+ </area>
+ <area areaName="Timeline" >
+  <position width="1323" docked="1" x="36" y="709" height="258" />
+ </area>
+ <area areaName="Thumbnails" />
+ <area areaName="Layers" />
+ <area areaName="Colour" >
+  <position width="360" docked="1" x="732" y="77" height="455" />
+ </area>
+ <area areaName="Library" >
+  <position width="360" docked="1" x="732" y="77" height="455" />
+ </area>
+ <area areaName="Message Log" />
+ <area areaName="Tool Properties" >
+  <position width="242" docked="1" x="1042" y="78" height="567" />
+  <position width="360" docked="1" x="780" y="75" height="455" />
+ </area>
+ <area areaName="Panel" >
+  <position width="404" docked="1" x="688" y="77" height="455" />
+ </area>
+ <area areaName="Storyboard" >
+  <position width="360" docked="1" x="780" y="75" height="455" />
+ </area>
+ <area areaName="Panel PDF Options" >
+  <position width="379" docked="1" x="1301" y="572" height="447" />
+ </area>
+ <area areaName="PDF Export" />
+ <area areaName="Pitch Mode View" />
+</layout>

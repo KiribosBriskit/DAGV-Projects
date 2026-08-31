@@ -1,0 +1,74 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE layout>
+<layout>
+ <position width="1920" x="-8" y="-8" maximized="1" height="1017"/>
+ <frame currentView="0" ratio="1" brotherIndex="-1" commandId="0">
+  <position width="283" x="0" y="0" height="711"/>
+  <view caption="3D Graph" areaName="3D Graph"/>
+ </frame>
+ <frame currentView="0" ratio="0.773248" brotherIndex="0" commandId="1">
+  <position width="1886" x="0" y="720" height="210"/>
+  <view caption="Timeline" areaName="Timeline">
+   <prefs detailLevel="4"/>
+  </view>
+ </frame>
+ <frame currentView="2" ratio="0.745154" brotherIndex="0" commandId="2">
+  <position width="479" x="1407" y="0" height="711"/>
+  <view caption="Tool Properties" areaName="Tool Properties"/>
+  <view caption="Colour" secondViewRatio="0.5" areaName="Colour"/>
+  <view caption="Library" areaName="Library">
+   <prefs column0="164" column1="771" viewMode="1" row0="0" row1="471"/>
+  </view>
+  <view caption="Panel" areaName="Panel"/>
+ </frame>
+ <frame currentView="0" ratio="0.5" brotherIndex="0" commandId="2">
+  <position width="695" x="703" y="0" height="711"/>
+  <view caption="Stage View" areaName="Stage View"/>
+ </frame>
+ <frame currentView="0" ratio="0.413074" brotherIndex="0" commandId="2">
+  <position width="402" x="0" y="0" height="351"/>
+  <view caption="Camera View" areaName="Camera View"/>
+ </frame>
+ <frame currentView="0" ratio="0.5" brotherIndex="4" commandId="1">
+  <position width="402" x="0" y="360" height="351"/>
+  <view caption="Top View" areaName="Top View"/>
+ </frame>
+ <toolbars>
+  <toolbar width="-1" x="646" y="21" height="-1" toolBarArea="top" visible="true" index="1" name="FileToolbar" newline="false" orientation="h"/>
+  <toolbar width="-1" x="790" y="21" height="-1" toolBarArea="top" visible="true" index="2" name="EditToolbar" newline="false" orientation="h"/>
+  <toolbar width="-1" x="1026" y="21" height="-1" toolBarArea="top" visible="true" index="3" name="ViewToolbar" newline="false" orientation="h"/>
+  <toolbar width="-1" x="0" y="0" height="-1" toolBarArea="top" visible="false" index="10" name="Scripting" newline="true" orientation="h"/>
+  <toolbar width="-1" x="0" y="21" height="-1" toolBarArea="top" visible="true" index="0" name="Coordinate" newline="false" orientation="h"/>
+  <toolbar width="-1" x="1798" y="21" height="-1" toolBarArea="top" visible="true" index="6" name="Playback" newline="false" orientation="h"/>
+  <toolbar width="-1" x="940" y="21" height="-1" toolBarArea="top" visible="false" index="11" name="DrawingToolToolbar" newline="false" orientation="h"/>
+  <toolbar width="-1" x="1374" y="21" height="-1" toolBarArea="top" visible="true" index="4" name="Storyboard" newline="false" orientation="h"/>
+  <toolbar width="-1" x="1722" y="21" height="-1" toolBarArea="top" visible="true" index="5" name="Navigation" newline="false" orientation="h"/>
+  <toolbar width="-1" x="0" y="0" height="-1" toolBarArea="top" visible="false" index="12" name="Camera" newline="false" orientation="h"/>
+  <toolbar width="-1" x="0" y="54" height="-1" toolBarArea="top" visible="true" index="8" name="Tool Presets" newline="true" orientation="h"/>
+  <toolbar width="-1" x="1866" y="21" height="-1" toolBarArea="top" visible="true" index="7" name="Onion Skin" newline="false" orientation="h"/>
+  <toolbar width="-1" x="0" y="0" height="-1" toolBarArea="top" visible="false" index="13" name="" newline="false" orientation="h"/>
+  <toolbar width="-1" x="212" y="54" height="-1" toolBarArea="top" visible="true" index="9" name="Workspace" newline="false" orientation="h"/>
+  <toolbar width="-1" x="0" y="87" height="-1" toolBarArea="left" visible="true" index="0" name="Layer" newline="false" orientation="v"/>
+  <toolbar width="-1" x="0" y="260" height="-1" toolBarArea="left" visible="true" index="1" name="Sound" newline="false" orientation="v"/>
+ </toolbars>
+ <area areaName="3D Graph"/>
+ <area areaName="Function Editor"/>
+ <area areaName="Camera View"/>
+ <area areaName="Colour"/>
+ <area areaName="Layers"/>
+ <area areaName="Library"/>
+ <area areaName="Message Log"/>
+ <area areaName="Panel"/>
+ <area areaName="Panel PDF Options"/>
+ <area areaName="PDF Export"/>
+ <area areaName="Pitch Mode View"/>
+ <area areaName="Side View"/>
+ <area areaName="Stage View"/>
+ <area areaName="Storyboard"/>
+ <area areaName="Thumbnails"/>
+ <area areaName="Timeline"/>
+ <area areaName="Tool Properties"/>
+ <area areaName="Top View"/>
+ <area areaName="Guides"/>
+ <area areaName="Script Editor"/>
+</layout>

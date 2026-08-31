@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE layout>
+<layout>
+ <position width="1280" x="-4" y="-4" height="975" maximized="1" />
+ <frame ratio="1" currentView="0" commandId="0" brotherIndex="-1" >
+  <position width="1240" x="0" y="0" height="920" />
+  <view caption="Thumbnails" areaName="Thumbnails" >
+   <prefs viewMode="4" />
+  </view>
+ </frame>
+ <frame ratio="1.0131" currentView="1" commandId="2" brotherIndex="0" >
+  <position width="1" x="-1649" y="-275" height="920" />
+  <view caption="Panel" areaName="Panel" />
+  <view caption="Storyboard" areaName="Storyboard" />
+  <view caption="Tool Properties" areaName="Tool Properties" />
+  <view caption="Colour" secondViewRatio="0.5" areaName="Colour" />
+  <view caption="Library" areaName="Library" >
+    <prefs column0="164" column1="399" viewMode="1" row0="0" row1="680"/>
+  </view>
+ </frame>
+ <toolbars>
+  <toolbar width="-1" x="0" offset="0" y="0" dockarea="top" newline="true" height="-1" toolBarArea="top" orientation="h" index="0" name="FileToolbar" visible="true" />
+  <toolbar width="-1" x="135" offset="0" y="0" dockarea="top" newline="false" height="-1" toolBarArea="top" orientation="h" index="1" name="EditToolbar" visible="true" />
+  <toolbar width="-1" x="339" offset="339" y="0" dockarea="top" newline="false" height="-1" toolBarArea="top" orientation="h" index="2" name="Workspace" visible="false" />
+  <toolbar width="-1" x="461" offset="0" y="0" dockarea="top" newline="false" height="-1" toolBarArea="top" orientation="h" index="3" name="ViewToolbar" visible="true" />
+  <toolbar width="-1" x="536" offset="0" y="0" dockarea="top" newline="false" height="-1" toolBarArea="top" orientation="h" index="4" name="Storyboard" visible="true" />
+  <toolbar width="-1" x="791" offset="0" y="0" dockarea="top" newline="false" height="-1" toolBarArea="top" orientation="h" index="6" name="Playback" visible="true" />
+  <toolbar width="-1" x="0" offset="0" y="0" dockarea="top" newline="false" height="-1" toolBarArea="top" orientation="h" index="7" name="tScripting" visible="false" />
+  <toolbar width="-1" x="624" offset="0" y="0" dockarea="top" newline="false" height="-1" toolBarArea="top" orientation="h" index="8" name="Onion Skin" visible="false" />
+  <toolbar width="-1" x="0" offset="0" y="0" dockarea="top" newline="false" height="-1" toolBarArea="top" orientation="h" index="5" name="Navigation" visible="true" />
+  <toolbar width="-1" x="0" offset="0" y="0" dockarea="top" newline="false" height="-1" toolBarArea="top" orientation="h" index="9" name="Tool Presets" visible="false" />
+  <toolbar width="-1" x="0" offset="0" y="0" dockarea="top" newline="true" height="-1" toolBarArea="top" orientation="h" index="10" name="Sound" visible="false" />
+  <toolbar width="-1" x="0" offset="0" y="0" dockarea="top" newline="false" height="-1" toolBarArea="top" orientation="h" index="11" name="Camera" visible="false" />
+  <toolbar width="-1" x="0" offset="0" y="0" dockarea="left" newline="true" height="-1" toolBarArea="left" orientation="v" index="0" name="DrawingToolToolbar" visible="true" />
+  <toolbar width="-1" x="0" offset="0" y="427" dockarea="left" newline="false" height="-1" toolBarArea="left" orientation="v" index="1" name="Layer" visible="true" />
+ </toolbars>
+ <area areaName="Stage View" >
+  <position width="1315" docked="1" x="36" y="87" height="880" />
+ </area>
+ <area areaName="Colour" />
+ <area areaName="Library" />
+ <area areaName="Message Log" />
+ <area areaName="Tool Properties" >
+  <position width="242" docked="1" x="1042" y="78" height="567" />
+ </area>
+ <area areaName="Metadata Viewer" />
+ <area areaName="Timeline" >
+  <position width="1323" docked="1" x="36" y="709" height="258" />
+ </area>
+ <area areaName="Panel" />
+ <area areaName="Storyboard" />
+ <area areaName="Thumbnails" />
+ <area areaName="Pitch Mode View" />
+</layout>

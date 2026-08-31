@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE layout>
+<layout>
+ <position width="958" height="1000" x="1" maximized="0" y="0"/>
+ <frame brotherIndex="-1" currentView="0" ratio="1" commandId="0">
+  <position width="738" height="764" x="0" maximized="0" y="0"/>
+  <view areaName="Stage View" caption="Stage View"/>
+ </frame>
+ <frame brotherIndex="0" currentView="0" ratio="0.81953293" commandId="1">
+  <position width="925" height="169" x="0" maximized="0" y="774"/>
+  <view areaName="Thumbnails" caption="Thumbnails">
+   <prefs zoomLevel="1" viewMode="0"/>
+  </view>
+ </frame>
+ <frame brotherIndex="0" currentView="2" ratio="0.80713904" commandId="2">
+  <position width="177" height="764" x="748" maximized="0" y="0"/>
+  <view areaName="Panel" caption="Panel"/>
+  <view areaName="Storyboard" caption="Storyboard"/>
+  <view areaName="Tool Properties" caption="Tool Properties"/>
+  <view secondViewRatio="0.47156726768377255" areaName="Colour" caption="Colour"/>
+  <view areaName="Library" caption="Library">
+   <prefs column1="466" row0="0" row1="470" column0="164" viewMode="1"/>
+  </view>
+ </frame>
+ <toolbars>
+  <toolbar width="-1" height="-1" newline="false" x="0" visible="true" y="24" orientation="h" index="0" name="FileToolbar" toolBarArea="top"/>
+  <toolbar width="-1" height="-1" newline="false" x="140" visible="true" y="24" orientation="h" index="1" name="EditToolbar" toolBarArea="top"/>
+  <toolbar width="-1" height="-1" newline="false" x="366" visible="true" y="24" orientation="h" index="2" name="ViewToolbar" toolBarArea="top"/>
+  <toolbar width="-1" height="-1" newline="false" x="0" visible="false" y="0" orientation="h" index="7" name="Scripting" toolBarArea="top"/>
+  <toolbar width="-1" height="-1" newline="false" x="0" visible="false" y="0" orientation="h" index="8" name="Coordinate" toolBarArea="top"/>
+  <toolbar width="-1" height="-1" newline="false" x="852" visible="true" y="24" orientation="h" index="5" name="Playback" toolBarArea="top"/>
+  <toolbar width="-1" height="-1" newline="false" x="0" visible="false" y="0" orientation="h" index="9" name="AlignmentGuidesToolbar" toolBarArea="top"/>
+  <toolbar width="-1" height="-1" newline="false" x="737" visible="true" y="24" orientation="h" index="3" name="Storyboard" toolBarArea="top"/>
+  <toolbar width="-1" height="-1" newline="false" x="0" visible="false" y="0" orientation="h" index="10" name="ClipsTrack" toolBarArea="top"/>
+  <toolbar width="-1" height="-1" newline="false" x="799" visible="true" y="24" orientation="h" index="4" name="Navigation" toolBarArea="top"/>
+  <toolbar width="-1" height="-1" newline="false" x="0" visible="false" y="0" orientation="h" index="11" name="Camera" toolBarArea="top"/>
+  <toolbar width="-1" height="-1" newline="false" x="0" visible="false" y="0" orientation="h" index="12" name="Tool Presets" toolBarArea="top"/>
+  <toolbar width="-1" height="-1" newline="false" x="905" visible="true" y="24" orientation="h" index="6" name="Onion Skin" toolBarArea="top"/>
+  <toolbar width="-1" height="-1" newline="false" x="0" visible="false" y="0" orientation="h" index="13" name="Keyframes and Control Points" toolBarArea="top"/>
+  <toolbar width="-1" height="-1" newline="false" x="0" visible="false" y="0" orientation="h" index="14" name="Pen Settings" toolBarArea="top"/>
+  <toolbar width="-1" height="-1" newline="false" x="337" visible="false" y="0" orientation="h" index="15" name="Workspace" toolBarArea="top"/>
+  <toolbar width="-1" height="-1" newline="false" x="0" visible="true" y="57" orientation="v" index="0" name="DrawingToolToolbar" toolBarArea="left"/>
+  <toolbar width="-1" height="-1" newline="false" x="0" visible="true" y="594" orientation="v" index="1" name="Layer" toolBarArea="left"/>
+ </toolbars>
+ <area areaName="3D Graph"/>
+ <area areaName="Function Editor"/>
+ <area areaName="Camera View"/>
+ <area areaName="Project Management"/>
+ <area areaName="Audio Levels"/>
+ <area areaName="Colour"/>
+ <area areaName="Layers"/>
+ <area areaName="Library"/>
+ <area areaName="Message Log"/>
+ <area areaName="Reference View"/>
+ <area areaName="Panel"/>
+ <area areaName="Effect Stack"/>
+ <area areaName="Panel PDF Options"/>
+ <area areaName="PDF Export"/>
+ <area areaName="Pitch Mode View"/>
+ <area areaName="Side View"/>
+ <area areaName="Stage View"/>
+ <area areaName="Storyboard"/>
+ <area areaName="Thumbnails"/>
+ <area areaName="Timeline">
+  <position width="1323" height="258" x="36" y="709" docked="1"/>
+ </area>
+ <area areaName="Tool Properties">
+  <position width="242" height="567" x="1042" y="78" docked="1"/>
+ </area>
+ <area areaName="Top View"/>
+ <area areaName="Guides"/>
+ <area areaName="Script Editor"/>
+</layout>
