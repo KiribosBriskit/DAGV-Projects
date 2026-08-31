@@ -1,7 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<project  source="Harmony Premium (HarmonyPremium.exe) version 25.0.0 build 23967 2025-06-05 18:44:20" version="2500" build="23967" date="Wed Aug 26 10:22:50 2026" timeMsec="1787761370456" username="11033142" realUsername="11033142" creator="harmony">
+<project  source="Harmony Premium (HarmonyPremium.exe) version 25.2.0 build 24991 2026-03-25 08:42:03" version="2520" build="24991" date="Fri Aug 28 11:47:30 2026" timeMsec="1787939250292" username="Brian" realUsername="Brian" creator="harmony">
  <elements>
-  <element id="1" elementName="WHITE" elementFolder="WHITE" pixmapFormat="2" scanType="2" fieldChart="12" vectorType="2" rootFolder="elements"/>
+  <element id="1" elementName="WHITE" elementFolder="WHITE" pixmapFormat="2" scanType="2" fieldChart="12" vectorType="2" rootFolder="elements">
+   <drawings>
+    <dwg name="1"/>
+   </drawings>
+  </element>
   <element id="2" elementName="Pendulum" elementFolder="Pendulum" pixmapFormat="2" scanType="2" fieldChart="12" vectorType="2" rootFolder="elements">
    <drawings>
     <dwg name="1"/>
@@ -123,7 +127,9 @@
  <scenes>
   <scene name="Top" id="0d46b84665609a5a" nbframes="60" startFrame="1" stopFrame="40">
    <columns>
-    <column type="0" name="Drawing" displayOrder="6" width="100" anonymous="true" id="1"/>
+    <column type="0" name="Drawing" displayOrder="6" width="100" anonymous="true" id="1">
+     <elementSeq exposures="1-40" val="1" id="1"/>
+    </column>
     <column type="0" name="ATV-0DC74638B8F746796560A030" displayOrder="1" width="100" anonymous="true" id="2">
      <elementSeq exposures="1,40" val="2" id="2"/>
      <elementSeq exposures="2,39" val="4" id="2"/>
@@ -149,7 +155,7 @@
     <column type="0" name="ATV-0D70468FB87B46356560BD9A" displayOrder="2" width="100" anonymous="true" id="3">
      <elementSeq exposures="1-40" val="1" id="3"/>
     </column>
-    <column type="0" name="ATV-0D5846A7B85746856565323B" displayOrder="3" width="100" anonymous="true" id="4">
+    <column type="0" name="ATV-0D5846A7B85746856565323B" display="false" displayOrder="3" width="100" anonymous="true" id="4">
      <elementSeq exposures="1-40" val="1" id="4"/>
     </column>
     <column type="0" name="ATV-0D60469FBDD6A45A2F3429F8" displayOrder="4" width="100" anonymous="true" id="5">
@@ -209,42 +215,49 @@
     </column>
     <column type="3" name="ATV-0D5846A7BF965DAA1D082A20" displayOrder="7" width="100" anonymous="true">
      <step val="1" start="1" stop="1"/>
+     <noFrames/>
      <points version="2">
       <pt constSeg="false" x="1" yLocal="-2.9653518129838403" y="-2.9653518129838403"/>
      </points>
     </column>
     <column type="3" name="ATV-0DBC4643BFD85DDE1D082A21" displayOrder="8" width="100" anonymous="true">
      <step val="1" start="1" stop="1"/>
+     <noFrames/>
      <points version="2">
       <pt constSeg="false" x="1" yLocal="-3.4306957820277084" y="-3.4306957820277084"/>
      </points>
     </column>
     <column type="3" name="ATV-0DA84657BFBB5D811D082A22" displayOrder="9" width="100" anonymous="true">
      <step val="1" start="1" stop="1"/>
+     <noFrames/>
      <points version="2">
       <pt constSeg="false" x="1" yLocal="0" y="0"/>
      </points>
     </column>
     <column type="3" name="ATV-0D3346CCBFC35DFB1D082A23" displayOrder="10" width="100" anonymous="true">
      <step val="1" start="1" stop="1"/>
+     <noFrames/>
      <points version="2">
       <pt constSeg="false" x="1" yLocal="0.77128853614179393" y="0.77128853614179393"/>
      </points>
     </column>
     <column type="3" name="ATV-0D764689BF065DD61D082A24" displayOrder="11" width="100" anonymous="true">
      <step val="1" start="1" stop="1"/>
+     <noFrames/>
      <points version="2">
       <pt constSeg="false" x="1" yLocal="0.77128853614178694" y="0.77128853614178694"/>
      </points>
     </column>
     <column type="3" name="ATV-0D1046EFBFB95D3B1D082A25" displayOrder="12" width="100" anonymous="true">
      <step val="1" start="1" stop="1"/>
+     <noFrames/>
      <points version="2">
       <pt constSeg="false" x="1" yLocal="0" y="0"/>
      </points>
     </column>
     <column type="3" name="ATV-0D8D4672BF385D0C1D082A26" displayOrder="13" width="100" anonymous="true">
      <step val="1" start="1" stop="1"/>
+     <noFrames/>
      <points version="2">
       <pt constSeg="false" x="1" yLocal="0" y="0"/>
      </points>
@@ -258,7 +271,7 @@
      <collapsed val="false"/>
     </options>
     <nodeslist>
-     <module type="COMPOSITE" name="Master_Composite" pos="-19,0,12" publishUnderTab="Composite">
+     <module type="COMPOSITE" name="Master_Composite" pos="-19,0,11" publishUnderTab="Composite">
       <options>
        <collapsed val="false"/>
        <version val="1"/>
@@ -277,13 +290,13 @@
        <mergeVector val="false"/>
       </attrs>
      </module>
-     <module type="DISPLAY" name="Display" pos="50,50,13" publishUnderTab="Display">
+     <module type="DISPLAY" name="Display" pos="50,50,12" publishUnderTab="Display">
       <options>
        <collapsed val="false"/>
        <version val="1"/>
       </options>
      </module>
-     <module type="WRITE" name="Write" pos="-50,50,14" publishUnderTab="Write">
+     <module type="WRITE" name="Write" pos="-50,50,13" publishUnderTab="Write">
       <options>
        <collapsed val="false"/>
        <version val="1"/>
@@ -306,17 +319,21 @@
         <filterResY val="540"/>
        </enabling>
        <scriptMovie val="false"/>
-       <scriptEditor val="// Following code will be called at the end of Write Node rendering
+       <scriptEditor>
+        <val>
+         <![CDATA[// Following code will be called at the end of Write Node rendering
 // operations to create a movie file from rendered images.
 
-// ..."/>
+// ...]]>
+        </val>
+       </scriptEditor>
        <colorSpace val=""/>
        <compositePartitioning val="NoCompositePartitioning"/>
        <zPartitionRange val="1" defaultValue="1"/>
        <cleanUpPartitionFolders val="true"/>
       </attrs>
      </module>
-     <module type="READ" name="WHITE" pos="450,-213,11" publishUnderTab="Drawing">
+     <module type="READ" name="WHITE" pos="450,-213,10" publishUnderTab="Drawing">
       <options>
        <collapsed val="false"/>
        <version val="1"/>
@@ -427,9 +444,10 @@
        <tileHorizontal val="false"/>
        <tileVertical val="false"/>
        <framerate val="-1" defaultValue="-1"/>
+       <useFileUnits val="false"/>
       </attrs>
      </module>
-     <module type="COMPOSITE" name="BG_Composite" pos="446,-175,9" publishUnderTab="Composite_1">
+     <module type="COMPOSITE" name="BG_Composite" pos="446,-175,8" publishUnderTab="Composite_1">
       <options>
        <collapsed val="false"/>
        <version val="1"/>
@@ -448,7 +466,7 @@
        <mergeVector val="false"/>
       </attrs>
      </module>
-     <module type="COMPOSITE" name="Pendulum_Composite" pos="-155,-163,4" publishUnderTab="Composite_2">
+     <module type="COMPOSITE" name="Pendulum_Composite" pos="-155,-163,3" publishUnderTab="Composite_2">
       <options>
        <collapsed val="false"/>
        <version val="1"/>
@@ -467,7 +485,7 @@
        <mergeVector val="false"/>
       </attrs>
      </module>
-     <module type="PEG" name="WHITE-P" pos="465,-251,10" publishUnderTab="Drawing-P">
+     <module type="PEG" name="WHITE-P" pos="465,-251,9" publishUnderTab="Drawing-P">
       <options>
        <collapsed val="false"/>
        <version val="1"/>
@@ -529,7 +547,7 @@
        <addCompositeToGroup val="true"/>
       </attrs>
      </module>
-     <module type="READ" name="Pendulum" pos="-449,-211,5" publishUnderTab="Pendulum">
+     <module type="READ" name="Pendulum" pos="-449,-211,4" publishUnderTab="Pendulum">
       <options>
        <collapsed val="false"/>
        <version val="1"/>
@@ -640,6 +658,7 @@
        <tileHorizontal val="false"/>
        <tileVertical val="false"/>
        <framerate val="24" defaultValue="-1"/>
+       <useFileUnits val="false"/>
       </attrs>
      </module>
      <module type="PEG" name="Pendulum-P" pos="-110,-270,1" publishUnderTab="Pendulum-P">
@@ -704,7 +723,7 @@
        <addCompositeToGroup val="true"/>
       </attrs>
      </module>
-     <module type="READ" name="Pendulum_Pin" pos="-299,-211,8" publishUnderTab="Pendulum_Pin">
+     <module type="READ" name="Pendulum_Pin" pos="-299,-211,7" publishUnderTab="Pendulum_Pin">
       <options>
        <collapsed val="false"/>
        <version val="1"/>
@@ -815,10 +834,12 @@
        <tileHorizontal val="false"/>
        <tileVertical val="false"/>
        <framerate val="24" defaultValue="-1"/>
+       <useFileUnits val="false"/>
       </attrs>
      </module>
-     <module type="READ" name="Pendulum_Guide" pos="-142,-211,7" publishUnderTab="Pendulum_Guide">
+     <module type="READ" name="Pendulum_Guide" pos="-142,-211,6" publishUnderTab="Pendulum_Guide">
       <options>
+       <disabled val="true"/>
        <collapsed val="false"/>
        <version val="1"/>
       </options>
@@ -928,9 +949,10 @@
        <tileHorizontal val="false"/>
        <tileVertical val="false"/>
        <framerate val="24" defaultValue="-1"/>
+       <useFileUnits val="false"/>
       </attrs>
      </module>
-     <module type="READ" name="Pendulum_Smear" pos="26,-211,6" publishUnderTab="Pendulum_Smear">
+     <module type="READ" name="Pendulum_Smear" pos="26,-211,5" publishUnderTab="Pendulum_Smear">
       <options>
        <collapsed val="false"/>
        <version val="1"/>
@@ -1041,9 +1063,10 @@
        <tileHorizontal val="false"/>
        <tileVertical val="false"/>
        <framerate val="24" defaultValue="-1"/>
+       <useFileUnits val="false"/>
       </attrs>
      </module>
-     <module type="READ" name="Pendulum_Tail" pos="204,-211,3" publishUnderTab="Pendulum_Tail">
+     <module type="READ" name="Pendulum_Tail" pos="204,-211,2" publishUnderTab="Pendulum_Tail">
       <options>
        <collapsed val="false"/>
        <version val="1"/>
@@ -1154,6 +1177,7 @@
        <tileHorizontal val="false"/>
        <tileVertical val="false"/>
        <framerate val="24" defaultValue="-1"/>
+       <useFileUnits val="false"/>
       </attrs>
      </module>
     </nodeslist>
@@ -1233,7 +1257,7 @@
  </timeline>
  <metas>
   <meta type="checksumValidation" name="checksumValidation" creator="Harmony Premium" version="1.0">
-   <value data="6A0000000000000003030B7CBD9059591237F89A3026E565662B3BDC064763E10DF896A8D8065F1AA4461720B073AC855AA12D8DC0C317D78E8AD0814B81A8DCE05D96E8B72AFEC61475AF9024E2F982C190A189A53042EEFFCB93A6AACF9CA8A1D38EE595E59B240CC3E4BC0220350411836B0200002D2D2D2D2D424547494E2043455254494649434154452D2D2D2D2D0A4D4949426E444343415157674177494241674943424E49774451594A4B6F5A496876634E4151454642514177506A454C4D416B474131554542684D43513045780A447A414E42674E5642416754426C46315A574A6C597A45654D4277474131554541784D5662476C6A5A57357A5A58497564473976626D4A7662323075593239740A4D423458445449324D444D784F5445324D5445784F566F5844544D324D444D784E7A45324D5445784F566F774C54454C4D416B474131554542684D43513045780A486A416342674E5642414D4D46564E47587A41774D576F774D4441774D44424D5958564662554642536A42634D413047435371475349623344514542415155410A413073414D4567435151446371555161785869466871643830497059547763495855496846724A4D7731706151384D5A4A5A4F68475A4A69783763496A3270620A315757637157744F435658517961333056706F36467A75537362453646516B5641674D42414145774451594A4B6F5A496876634E4151454642514144675945410A4D756F4541322F746A79582F615952494B34774178365774444636676D6267567134566E7A755A714352356574527676496E6146305A6B5A47457741497A42450A6D47414D767A4755574867512B73545A384D3269764431396F724179484366637258335230584273765A72754C446E414C50425773373555777136567762726E0A7A64376A3043625A2B77416266325765644831654E7358644F514A4A67333978776B554D4D537761322B6B3D0A2D2D2D2D2D454E442043455254494649434154452D2D2D2D2D0A40000000CF4315C39A114CB8AF728E3475D50DFDA10B6BF87338C36D88FADBC726C4F22CA6A83B7B71DF182901C8C341E673EA236B39C0B2823F77D148D1CD9088541C8C"/>
+   <value data="6A0000000000000003033A4D8CA168682306C9AB0117D454571A0AED377652D03CC9A799E9376E2B9577261181429DB46B901CBCF1F226E6BFBBE1B07AB099EDD16CA7D9861BCFF725449EA115D3C8B3F0A190B8940173DFCEFAA2979BFEAD9990E2BFD4A4D4AA153DF2D58D3311043520B25B0200002D2D2D2D2D424547494E2043455254494649434154452D2D2D2D2D0A4D4949426B5443422B3641444167454341674945306A414E42676B71686B694739773042415155464144412B4D517377435159445651514745774A44515445500A4D4130474131554543424D475558566C596D566A4D52347748415944565151444578567361574E6C626E4E6C6369353062323975596D39766253356A623230770A4868634E4D6A59774D5441324D5459794F4451355768634E4D7A59774D5441314D5459794F445135576A416A4D517377435159445651514745774A44515445550A4D424947413155454177774C56305643587A49794E4455334E6A4D775844414E42676B71686B6947397730424151454641414E4C41444249416B45416D762F6D0A6F644B797944794A4731572B3239754E744F6F6C345A4A6C6E4F732B446831572F524F67336E524C6F334849447A46595833654258514F7975394B6C526D46430A54346C476D344D424B716B635067756A66514944415141424D41304743537147534962334451454242515541413447424143674B393430622B4A49665A4F46750A4B6945702B624E6F5A3243376C65726A6D576E467275703268797579634B6F4A3775466F3764686F72354A5A4E736271324F6C724549746575544F57457441340A593537434E5948554B3175746D344B62436D6A5667646F7A36424E47714931635367334A76734A69586E6D316C544F7A66737972576A565846614C6438654C720A6557796552447962422F43457854432F32633870434773533133754D0A2D2D2D2D2D454E442043455254494649434154452D2D2D2D2D0A400000007426996EDBD3A4D8283F6CDFE82B8CFE1C1BF60E71777880FAB569F638CA6C6B120B38D8E1884372ED5370AD702B676A90EC043B45169A6AF9D0EA2D36B5518B"/>
   </meta>
  </metas>
 </project>
