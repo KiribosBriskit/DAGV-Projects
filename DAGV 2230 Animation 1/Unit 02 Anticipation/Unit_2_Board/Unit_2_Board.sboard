@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<project  source="Storyboard Pro (StoryboardPro.exe) version 25.2.0 build 24991 2026-03-25 08:42:03" version="2520" build="24991" date="Sun Sep 6 19:02:12 2026" timeMsec="1788742932960" username="Brian" realUsername="Brian">
+<project  source="Storyboard Pro (StoryboardPro.exe) version 25.2.0 build 24991 2026-03-25 08:42:03" version="2520" build="24991" date="Mon Sep 7 15:28:18 2026" timeMsec="1788816498194" username="Brian" realUsername="Brian">
  <elements>
   <element id="1" elementName="Draw" elementFolder="Draw" pixmapFormat="0" scanType="0" fieldChart="12" vectorType="2" rootFolder="elements">
    <drawings>
@@ -34,6 +34,9 @@
     <dwg name="1_14"/>
     <dwg name="34"/>
     <dwg name="1_15"/>
+    <dwg name="35"/>
+    <dwg name="1_16"/>
+    <dwg name="37"/>
    </drawings>
   </element>
  </elements>
@@ -56,10 +59,10 @@
  </options>
  <timelineMarkers/>
  <scenes>
-  <scene name="Top" id="0d498a388b901692" nbframes="384">
+  <scene name="Top" id="0d498a388b901692" nbframes="408">
    <columns>
     <column type="0" name="ATV-0D3949C68A9D38DB8B901CD3" displayOrder="0" width="100" anonymous="true" id="1">
-     <warpSeq exposures="1-384" id="0d498a388b901cc7" start="1" end="384"/>
+     <warpSeq exposures="1-408" id="0d498a388b901cc7" start="1" end="408"/>
     </column>
     <column type="1" name="A1" displayOrder="0" width="100" anonymous="false" disabled="false" videoSync="true" soundLocked="false"/>
    </columns>
@@ -223,7 +226,7 @@
     <soundLayer soundName="A1" index="0"/>
    </timelineOrderer>
   </scene>
-  <scene name="shot" id="0d498a388b901cc7" nbframes="384">
+  <scene name="shot" id="0d498a388b901cc7" nbframes="408">
    <columns>
     <column type="0" name="ATV-0D6C49938AD9388F8B901CC9" displayOrder="0" width="100" anonymous="true" id="1">
      <warpSeq exposures="1-24" id="0d498a388b901cd6" start="1" end="24"/>
@@ -242,6 +245,7 @@
      <warpSeq exposures="313-336" id="0d49d388df1ccbf1" start="1" end="24"/>
      <warpSeq exposures="337-360" id="0d49d388df1f0fda" start="1" end="24"/>
      <warpSeq exposures="361-384" id="0d49c3487b80f45f" start="1" end="24"/>
+     <warpSeq exposures="385-408" id="0d49d1c47a61c50a" start="1" end="24"/>
     </column>
     <column type="3" name="ATV-0D90496F8ACD38B78B901CCD" displayOrder="0" width="100" anonymous="true">
      <step val="1" start="1" stop="1"/>
@@ -535,7 +539,7 @@
        <pt val="0,0,0" lockedInTime="24"/>
       </points>
      </path3D>
-     <velocity type="3" name="ATV-0DBC4943D3E788E3DF1015B6" displayOrder="0" width="100" anonymous="true">
+     <velocity type="3" name="ATV-0DEC4913D16BC4EB7A601787" displayOrder="0" width="100" anonymous="true">
       <step val="1" start="1" stop="1"/>
       <noFrames/>
       <points version="2">
@@ -3951,7 +3955,9 @@
   </scene>
   <scene name="panel" id="0d49c3487b80f45f" nbframes="24">
    <columns>
-    <column type="0" name="ATV-0D2E49D1C3EE48C67B80F462" displayOrder="0" width="100" anonymous="true" id="1"/>
+    <column type="0" name="ATV-0D2E49D1C3EE48C67B80F462" displayOrder="0" width="100" anonymous="true" id="1">
+     <elementSeq exposures="1-24" val="35" id="1"/>
+    </column>
     <column type="0" name="ATV-0DF94906C39848CA7B80F46B" color="#000000FF" displayOrder="0" width="100" anonymous="true" id="1">
      <elementSeq exposures="1-24" val="1_15" id="1"/>
     </column>
@@ -4227,7 +4233,316 @@
      </infoFields>
     </meta>
     <meta type="tracking" name="tracking" creator="Storyboard Pro" version="1.0">
-     <tracking trackingFlag="false" trackingDate="2026-09-06T18:54:16" trackingNote=""/>
+     <tracking trackingFlag="false" trackingDate="2026-09-07T15:24:32" trackingNote=""/>
+    </meta>
+    <meta type="exposurePoints" name="exposurePoints" creator="Storyboard Pro" version="1.0">
+     <exposurePoints primaryExposure="0"/>
+    </meta>
+    <meta type="layerInfos" name="layerInfos" creator="Storyboard Pro" version="1.0">
+     <layerInfos>
+      <layer name="A" exportFlag="13" layerFlag="0" parentFlag="0"/>
+      <layer name="BG" exportFlag="13" layerFlag="1" parentFlag="0"/>
+     </layerInfos>
+    </meta>
+    <meta type="soundAnnotation" name="soundAnnotation" creator="Storyboard Pro" version="1.0">
+     <soundAnnotation/>
+    </meta>
+    <meta type="pdfOptions" name="pdfOptions" creator="Storyboard Pro" version="1.0">
+     <pdfOptions/>
+    </meta>
+    <meta type="guideList" name="guideList" creator="Storyboard Pro" version="1.0">
+     <guideList selectedGuide="-1"/>
+    </meta>
+    <meta type="symmetryGuideList" name="symmetryGuideList" creator="Storyboard Pro" version="1.0">
+     <symmetryGuideList selectedGuide="-1"/>
+    </meta>
+    <meta type="alignmentGuideList" name="alignmentGuideList" creator="Storyboard Pro" version="1.0">
+     <alignmentGuideList selectedGuide="-1"/>
+    </meta>
+   </metas>
+   <timelineOrderer/>
+  </scene>
+  <scene name="panel" id="0d49d1c47a61c50a" nbframes="24">
+   <columns>
+    <column type="0" name="ATV-0D1649E9D1BBC4057A61C50D" displayOrder="0" width="100" anonymous="true" id="1">
+     <elementSeq exposures="1-24" val="37" id="1"/>
+    </column>
+    <column type="0" name="ATV-0D1649E9D1C3C4777A61C516" color="#000000FF" displayOrder="0" width="100" anonymous="true" id="1">
+     <elementSeq exposures="1-24" val="1_16" id="1"/>
+    </column>
+   </columns>
+   <options>
+    <defaultDisplay val="Unconnected_Display"/>
+   </options>
+   <rootgroup name="Top">
+    <options>
+     <collapsed val="false"/>
+    </options>
+    <nodeslist>
+     <module type="READ" name="A" pos="0,0,0" publishUnderTab="A">
+      <options>
+       <collapsed val="false"/>
+       <version val="1"/>
+      </options>
+      <attrs>
+       <enable3d val="false"/>
+       <faceCamera val="false"/>
+       <cameraAlignment val="NO_CAMERA_ALIGNMENT"/>
+       <offset>
+        <separate val="false"/>
+        <x val="0" defaultValue="0"/>
+        <y val="0" defaultValue="0"/>
+        <z val="0" defaultValue="0"/>
+       </offset>
+       <scale>
+        <separate val="true"/>
+        <inFields val="false"/>
+        <xy val="1" defaultValue="1"/>
+        <x val="1" defaultValue="1"/>
+        <y val="1" defaultValue="1"/>
+        <z val="1" defaultValue="1"/>
+       </scale>
+       <rotation>
+        <separate val="false"/>
+        <anglex val="0" defaultValue="0"/>
+        <angley val="0" defaultValue="0"/>
+        <anglez val="0" defaultValue="0"/>
+       </rotation>
+       <angle val="0" defaultValue="0"/>
+       <skew val="0" defaultValue="0"/>
+       <pivot>
+        <x val="0" defaultValue="0"/>
+        <y val="0" defaultValue="0"/>
+        <z val="0" defaultValue="0"/>
+       </pivot>
+       <splineOffset>
+        <x val="0" defaultValue="0"/>
+        <y val="0" defaultValue="0"/>
+        <z val="0" defaultValue="0"/>
+       </splineOffset>
+       <ignoreParentPegScaling val="false"/>
+       <disableFieldRendering val="false"/>
+       <depth val="0"/>
+       <enableMinMaxAngle val="false"/>
+       <minAngle val="-360" defaultValue="-360"/>
+       <maxAngle val="360" defaultValue="360"/>
+       <nailForChildren val="false"/>
+       <ikHoldOrientation val="false"/>
+       <ikHoldX val="false"/>
+       <ikHoldY val="false"/>
+       <ikExcluded val="false"/>
+       <ikCanRotate val="true"/>
+       <ikCanTranslateX val="false"/>
+       <ikCanTranslateY val="false"/>
+       <ikBoneX val="0.20000000000000001" defaultValue="0.20000000000000001"/>
+       <ikBoneY val="0" defaultValue="0"/>
+       <ikStiffness val="1" defaultValue="1"/>
+       <drawing>
+        <elementMode val="true"/>
+        <element col="ATV-0D1649E9D1BBC4057A61C50D">
+         <layer val=""/>
+        </element>
+        <customName>
+         <name val=""/>
+         <extension val="tga"/>
+         <fieldChart val="12" defaultValue="12"/>
+        </customName>
+       </drawing>
+       <readOverlay val="true"/>
+       <readLineArt val="true"/>
+       <readColorArt val="true"/>
+       <readUnderlay val="true"/>
+       <overlayArtDrawingMode val="VectorDrawingMode"/>
+       <lineArtDrawingMode val="VectorDrawingMode"/>
+       <colorArtDrawingMode val="VectorDrawingMode"/>
+       <underlayArtDrawingMode val="VectorDrawingMode"/>
+       <pencilLineDeformationPreserveThickness val="false"/>
+       <pencilLineDeformationQuality val="Low"/>
+       <pencilLineDeformationSmooth val="1"/>
+       <pencilLineDeformationFitError val="3" defaultValue="3"/>
+       <readColor val="true"/>
+       <readTransparency val="true"/>
+       <colorTransformation val="Linear"/>
+       <colorSpace val="sRGB"/>
+       <applyMatteToColor val="N"/>
+       <enableLineTexture val="true"/>
+       <antialiasingQuality val="HIGH"/>
+       <antialiasingExponent val="1" defaultValue="1"/>
+       <opacity val="100" defaultValue="100"/>
+       <textureFilter val="NEAREST_FILTERED"/>
+       <adjustPencilThickness val="false"/>
+       <normalLineArtThickness val="true"/>
+       <zoomIndependentLineArtThickness val="zoomIndependent"/>
+       <multLineArtThickness val="1" defaultValue="1"/>
+       <addLineArtThickness val="0" defaultValue="0"/>
+       <minLineArtThickness val="0" defaultValue="0"/>
+       <maxLineArtThickness val="0" defaultValue="0"/>
+       <useDrawingPivot val="APPLY_ON_READ_TRANSFORM"/>
+       <flipHor val="false"/>
+       <flipVert val="false"/>
+       <turnBeforeAlignment val="false"/>
+       <noClipping val="false"/>
+       <xClipFactor val="0"/>
+       <yClipFactor val="0"/>
+       <alignmentRule val="CENTER_FIRST_PAGE"/>
+       <canAnimate val="true"/>
+       <tileHorizontal val="false"/>
+       <tileVertical val="false"/>
+       <framerate val="24" defaultValue="-1"/>
+       <useFileUnits val="true"/>
+      </attrs>
+     </module>
+     <module type="READ" name="BG" pos="0,0,0" publishUnderTab="BG">
+      <options>
+       <collapsed val="false"/>
+       <version val="1"/>
+      </options>
+      <attrs>
+       <enable3d val="false"/>
+       <faceCamera val="false"/>
+       <cameraAlignment val="NO_CAMERA_ALIGNMENT"/>
+       <offset>
+        <separate val="false"/>
+        <x val="0" defaultValue="0"/>
+        <y val="0" defaultValue="0"/>
+        <z val="0" defaultValue="0"/>
+       </offset>
+       <scale>
+        <separate val="true"/>
+        <inFields val="false"/>
+        <xy val="1" defaultValue="1"/>
+        <x val="1" defaultValue="1"/>
+        <y val="1" defaultValue="1"/>
+        <z val="1" defaultValue="1"/>
+       </scale>
+       <rotation>
+        <separate val="false"/>
+        <anglex val="0" defaultValue="0"/>
+        <angley val="0" defaultValue="0"/>
+        <anglez val="0" defaultValue="0"/>
+       </rotation>
+       <angle val="0" defaultValue="0"/>
+       <skew val="0" defaultValue="0"/>
+       <pivot>
+        <x val="0" defaultValue="0"/>
+        <y val="0" defaultValue="0"/>
+        <z val="0" defaultValue="0"/>
+       </pivot>
+       <splineOffset>
+        <x val="0" defaultValue="0"/>
+        <y val="0" defaultValue="0"/>
+        <z val="0" defaultValue="0"/>
+       </splineOffset>
+       <ignoreParentPegScaling val="false"/>
+       <disableFieldRendering val="false"/>
+       <depth val="0"/>
+       <enableMinMaxAngle val="false"/>
+       <minAngle val="-360" defaultValue="-360"/>
+       <maxAngle val="360" defaultValue="360"/>
+       <nailForChildren val="false"/>
+       <ikHoldOrientation val="false"/>
+       <ikHoldX val="false"/>
+       <ikHoldY val="false"/>
+       <ikExcluded val="false"/>
+       <ikCanRotate val="true"/>
+       <ikCanTranslateX val="false"/>
+       <ikCanTranslateY val="false"/>
+       <ikBoneX val="0.20000000000000001" defaultValue="0.20000000000000001"/>
+       <ikBoneY val="0" defaultValue="0"/>
+       <ikStiffness val="1" defaultValue="1"/>
+       <drawing>
+        <elementMode val="true"/>
+        <element col="ATV-0D1649E9D1C3C4777A61C516">
+         <layer val=""/>
+        </element>
+        <customName>
+         <name val=""/>
+         <extension val="tga"/>
+         <fieldChart val="12" defaultValue="12"/>
+        </customName>
+       </drawing>
+       <readOverlay val="true"/>
+       <readLineArt val="true"/>
+       <readColorArt val="true"/>
+       <readUnderlay val="true"/>
+       <overlayArtDrawingMode val="VectorDrawingMode"/>
+       <lineArtDrawingMode val="VectorDrawingMode"/>
+       <colorArtDrawingMode val="VectorDrawingMode"/>
+       <underlayArtDrawingMode val="VectorDrawingMode"/>
+       <pencilLineDeformationPreserveThickness val="false"/>
+       <pencilLineDeformationQuality val="Low"/>
+       <pencilLineDeformationSmooth val="1"/>
+       <pencilLineDeformationFitError val="3" defaultValue="3"/>
+       <readColor val="true"/>
+       <readTransparency val="true"/>
+       <colorTransformation val="Linear"/>
+       <colorSpace val="sRGB"/>
+       <applyMatteToColor val="N"/>
+       <enableLineTexture val="true"/>
+       <antialiasingQuality val="HIGH"/>
+       <antialiasingExponent val="1" defaultValue="1"/>
+       <opacity val="100" defaultValue="100"/>
+       <textureFilter val="NEAREST_FILTERED"/>
+       <adjustPencilThickness val="false"/>
+       <normalLineArtThickness val="true"/>
+       <zoomIndependentLineArtThickness val="zoomIndependent"/>
+       <multLineArtThickness val="1" defaultValue="1"/>
+       <addLineArtThickness val="0" defaultValue="0"/>
+       <minLineArtThickness val="0" defaultValue="0"/>
+       <maxLineArtThickness val="0" defaultValue="0"/>
+       <useDrawingPivot val="APPLY_ON_READ_TRANSFORM"/>
+       <flipHor val="false"/>
+       <flipVert val="false"/>
+       <turnBeforeAlignment val="false"/>
+       <noClipping val="false"/>
+       <xClipFactor val="0"/>
+       <yClipFactor val="0"/>
+       <alignmentRule val="CENTER_FIRST_PAGE"/>
+       <canAnimate val="true"/>
+       <tileHorizontal val="false"/>
+       <tileVertical val="false"/>
+       <framerate val="24" defaultValue="-1"/>
+       <useFileUnits val="true"/>
+      </attrs>
+     </module>
+    </nodeslist>
+    <linkedlist/>
+   </rootgroup>
+   <unconnectedComposite>
+    <module type="COMPOSITE" name="Unconnected_Composite" pos="0,0,0" publishUnderTab="Unconnected_Composite">
+     <options>
+      <collapsed val="false"/>
+      <version val="1"/>
+     </options>
+     <attrs>
+      <compositeMode val="compositeBitmap"/>
+      <flattenOutput val="true"/>
+      <flattenVector val="false"/>
+      <composite2d val="false"/>
+      <composite3d val="false"/>
+      <outputZ val="LEFTMOST"/>
+      <outputZInputPort val="1"/>
+      <applyFocus val="false"/>
+      <multiplier val="1" defaultValue="1"/>
+      <tvgPalette val="compositedPalette"/>
+      <mergeVector val="false"/>
+     </attrs>
+    </module>
+   </unconnectedComposite>
+   <metas>
+    <meta type="panelInfo" name="panelInfo" creator="Storyboard Pro" version="1.0">
+     <panelInfo name="" nameFlag="0" exportFlag="13" colorIsValid="false" color="#000000FF"/>
+    </meta>
+    <meta type="infoFields" name="infoFields" creator="Storyboard Pro" version="1.0">
+     <infoFields>
+      <field id="1" type="TEXT" height="16" value=""/>
+      <field id="2" type="TEXT" height="16" value=""/>
+      <field id="3" type="TEXT" height="16" value=""/>
+      <field id="4" type="TEXT" height="16" value=""/>
+     </infoFields>
+    </meta>
+    <meta type="tracking" name="tracking" creator="Storyboard Pro" version="1.0">
+     <tracking trackingFlag="false" trackingDate="2026-09-07T15:27:30" trackingNote=""/>
     </meta>
     <meta type="exposurePoints" name="exposurePoints" creator="Storyboard Pro" version="1.0">
      <exposurePoints primaryExposure="0"/>
@@ -5513,6 +5828,7 @@
    <scene id="0d49d388df1ccbf1"/>
    <scene id="0d49d388df1f0fda"/>
    <scene id="0d49c3487b80f45f"/>
+   <scene id="0d49d1c47a61c50a"/>
   </folder>
  </symbols>
  <timeline>
@@ -5595,7 +5911,7 @@
   </meta>
   <meta type="hiddenInfoField" name="hiddenInfoField" creator="Storyboard Pro" version="1.0"/>
   <meta type="checksumValidation" name="checksumValidation" creator="Storyboard Pro" version="1.0">
-   <value data="6B000000000000000303E506F9D41D1D5673BCBE1470B333307D6D9B41988BD57E1BE8FDBE759F123BC1FC53D615D66B236AABC7B822E787453406A6F22DF1951984EC3B266B99E9F8E16A7C57EE820D5E1EC3590CC0E06C7A70FD962A976D3BF5CF818C66D7421C8472B8FA00FF31EB017AD25B0200002D2D2D2D2D424547494E2043455254494649434154452D2D2D2D2D0A4D4949426B5443422B3641444167454341674945306A414E42676B71686B694739773042415155464144412B4D517377435159445651514745774A44515445500A4D4130474131554543424D475558566C596D566A4D52347748415944565151444578567361574E6C626E4E6C6369353062323975596D39766253356A623230770A4868634E4D6A59774D5441324D5459794F4451355768634E4D7A59774D5441314D5459794F445135576A416A4D517377435159445651514745774A44515445550A4D424947413155454177774C56305643587A49794E4455334E6A4D775844414E42676B71686B6947397730424151454641414E4C41444249416B45416D762F6D0A6F644B797944794A4731572B3239754E744F6F6C345A4A6C6E4F732B446831572F524F67336E524C6F334849447A46595833654258514F7975394B6C526D46430A54346C476D344D424B716B635067756A66514944415141424D41304743537147534962334451454242515541413447424143674B393430622B4A49665A4F46750A4B6945702B624E6F5A3243376C65726A6D576E467275703268797579634B6F4A3775466F3764686F72354A5A4E736271324F6C724549746575544F57457441340A593537434E5948554B3175746D344B62436D6A5667646F7A36424E47714931635367334A76734A69586E6D316C544F7A66737972576A565846614C6438654C720A6557796552447962422F43457854432F32633870434773533133754D0A2D2D2D2D2D454E442043455254494649434154452D2D2D2D2D0A400000000AC7EE90CA77B6222D3098CBD6A2B588B205E9D013512C7EAE53F9DFE7A13AE8E5B7A612CF038F4FD242D37FFF89E7657561EE50CCEDBD4482CD26C417FE0B8E"/>
+   <value data="6B000000000000000303BC5FA08D44440F2AE5E74D29EA6A692434C218C1D28C2742B1A4E72CC64B6298A50A8F4C8F327A33F29EE17BBEDE1C6D5FFFAB74A8CC40DDB5627F32C0B0A1B833250EB7DB5407479A005599B9352329A4CF73CE3462AC96D8D53F8E1B45DD2BE1A359A668B258238B5B0200002D2D2D2D2D424547494E2043455254494649434154452D2D2D2D2D0A4D4949426B5443422B3641444167454341674945306A414E42676B71686B694739773042415155464144412B4D517377435159445651514745774A44515445500A4D4130474131554543424D475558566C596D566A4D52347748415944565151444578567361574E6C626E4E6C6369353062323975596D39766253356A623230770A4868634E4D6A59774D5441324D5459794F4451355768634E4D7A59774D5441314D5459794F445135576A416A4D517377435159445651514745774A44515445550A4D424947413155454177774C56305643587A49794E4455334E6A4D775844414E42676B71686B6947397730424151454641414E4C41444249416B45416D762F6D0A6F644B797944794A4731572B3239754E744F6F6C345A4A6C6E4F732B446831572F524F67336E524C6F334849447A46595833654258514F7975394B6C526D46430A54346C476D344D424B716B635067756A66514944415141424D41304743537147534962334451454242515541413447424143674B393430622B4A49665A4F46750A4B6945702B624E6F5A3243376C65726A6D576E467275703268797579634B6F4A3775466F3764686F72354A5A4E736271324F6C724549746575544F57457441340A593537434E5948554B3175746D344B62436D6A5667646F7A36424E47714931635367334A76734A69586E6D316C544F7A66737972576A565846614C6438654C720A6557796552447962422F43457854432F32633870434773533133754D0A2D2D2D2D2D454E442043455254494649434154452D2D2D2D2D0A4000000054741384268474F9ED6C883095B502C7CFF8B9B8FC3487836E61403E3DA3D6564B9A09D943567783637168A63DFA3925133FC8BFA6FB52965546B3B4A080B385"/>
   </meta>
   <meta type="bool" name="isSceneDurationLocked" creator="Storyboard Pro" version="1.0">
    <bool value=""/>
