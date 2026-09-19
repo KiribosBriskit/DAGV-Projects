@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<project  source="Harmony Premium (HarmonyPremium.exe) version 25.2.0 build 24991 2026-03-25 08:42:03" version="2520" build="24991" date="Tue Sep 8 02:19:40 2026" timeMsec="1788855580526" username="Brian" realUsername="Brian" creator="harmony">
+<project  source="Harmony Premium (HarmonyPremium.exe) version 25.2.0 build 24991 2026-03-25 08:42:03" version="2520" build="24991" date="Fri Sep 18 23:52:44 2026" timeMsec="1789797164301" username="Brian" realUsername="Brian" creator="harmony">
  <elements>
   <element id="1" elementName="NFGreen" elementFolder="NFGreen" pixmapFormat="2" scanType="2" fieldChart="12" vectorType="2" rootFolder="elements">
    <drawings>
@@ -31,6 +31,13 @@
     <dwg name="26"/>
     <dwg name="27"/>
     <dwg name="28"/>
+    <dwg name="29"/>
+    <dwg name="30"/>
+    <dwg name="31"/>
+    <dwg name="32"/>
+    <dwg name="33"/>
+    <dwg name="34"/>
+    <dwg name="35"/>
    </drawings>
   </element>
   <element id="2" elementName="Storyboard" elementFolder="Storyboard" pixmapFormat="2" scanType="2" fieldChart="12" vectorType="2" rootFolder="elements">
@@ -80,6 +87,11 @@
     <dwg name="5"/>
    </drawings>
   </element>
+  <element id="4" elementName="Background" elementFolder="Background" pixmapFormat="2" scanType="2" fieldChart="12" vectorType="2" rootFolder="elements">
+   <drawings>
+    <dwg name="1"/>
+   </drawings>
+  </element>
  </elements>
  <options>
   <metrics unitAspectRatioX="4" unitAspectRatioY="3" numberOfUnitsX="24" numberOfUnitsY="24" numberOfUnitsZ="12"/>
@@ -100,17 +112,24 @@
  </options>
  <timelineMarkers/>
  <scenes>
-  <scene name="Top" id="0d4917a0b040177d" nbframes="167" startFrame="1" stopFrame="152">
+  <scene name="Top" id="0d4917a0b040177d" nbframes="167" startFrame="1" stopFrame="154">
    <columns>
     <column type="0" name="Drawing" displayOrder="2" width="100" anonymous="true" id="1">
-     <elementSeq exposures="1-6" val="1" id="1"/>
-     <elementSeq exposures="7-12" val="4" id="1"/>
-     <elementSeq exposures="13,41-43" val="5" id="1"/>
-     <elementSeq exposures="14-26" val="2" id="1"/>
+     <elementSeq exposures="1" val="1" id="1"/>
+     <elementSeq exposures="2" val="30" id="1"/>
+     <elementSeq exposures="3" val="31" id="1"/>
+     <elementSeq exposures="4" val="33" id="1"/>
+     <elementSeq exposures="5" val="34" id="1"/>
+     <elementSeq exposures="6" val="32" id="1"/>
+     <elementSeq exposures="7" val="4" id="1"/>
+     <elementSeq exposures="8" val="35" id="1"/>
+     <elementSeq exposures="13-14,41-43" val="5" id="1"/>
+     <elementSeq exposures="15-26" val="2" id="1"/>
      <elementSeq exposures="27,28-40" val="3" id="1"/>
      <elementSeq exposures="44-47" val="7" id="1"/>
-     <elementSeq exposures="48-49,61-66" val="8" id="1"/>
-     <elementSeq exposures="50-60" val="6" id="1"/>
+     <elementSeq exposures="48-49" val="8" id="1"/>
+     <elementSeq exposures="50,51,61-66" val="29" id="1"/>
+     <elementSeq exposures="52-60" val="6" id="1"/>
      <elementSeq exposures="67-71" val="11" id="1"/>
      <elementSeq exposures="72-80" val="12" id="1"/>
      <elementSeq exposures="81-92" val="9" id="1"/>
@@ -121,17 +140,17 @@
      <elementSeq exposures="103-104" val="18" id="1"/>
      <elementSeq exposures="105-107" val="16" id="1"/>
      <elementSeq exposures="108" val="17" id="1"/>
-     <elementSeq exposures="109-111" val="19" id="1"/>
-     <elementSeq exposures="112-117" val="21" id="1"/>
-     <elementSeq exposures="118-123" val="22" id="1"/>
-     <elementSeq exposures="124-128" val="23" id="1"/>
-     <elementSeq exposures="129-133" val="24" id="1"/>
-     <elementSeq exposures="134-139" val="25" id="1"/>
-     <elementSeq exposures="140,141-146" val="28" id="1"/>
-     <elementSeq exposures="147-148" val="27" id="1"/>
-     <elementSeq exposures="149-152" val="26" id="1"/>
+     <elementSeq exposures="109-113" val="19" id="1"/>
+     <elementSeq exposures="114-119" val="21" id="1"/>
+     <elementSeq exposures="120-125" val="22" id="1"/>
+     <elementSeq exposures="126-130" val="23" id="1"/>
+     <elementSeq exposures="131-135" val="24" id="1"/>
+     <elementSeq exposures="136-141" val="25" id="1"/>
+     <elementSeq exposures="142,143-148" val="28" id="1"/>
+     <elementSeq exposures="149-150" val="27" id="1"/>
+     <elementSeq exposures="151-154" val="26" id="1"/>
     </column>
-    <column type="0" name="ATV-0DE5491AD53AF38257701A5F" display="false" displayOrder="3" width="100" anonymous="true" id="2">
+    <column type="0" name="ATV-0DE5491AD53AF38257701A5F" displayOrder="3" width="100" anonymous="true" id="2">
      <elementSeq exposures="1-27" val="10" id="2"/>
      <elementSeq exposures="28-48" val="10_1" id="2"/>
      <elementSeq exposures="49-50" val="12" id="2"/>
@@ -139,13 +158,13 @@
      <elementSeq exposures="93-100" val="18" id="2"/>
      <elementSeq exposures="101-104" val="19" id="2"/>
      <elementSeq exposures="105-108" val="23" id="2"/>
-     <elementSeq exposures="109-111" val="24" id="2"/>
-     <elementSeq exposures="112-117" val="28" id="2"/>
-     <elementSeq exposures="118-123" val="29" id="2"/>
-     <elementSeq exposures="124-128" val="32" id="2"/>
-     <elementSeq exposures="129-133" val="34" id="2"/>
-     <elementSeq exposures="134-146" val="35" id="2"/>
-     <elementSeq exposures="147-152" val="37" id="2"/>
+     <elementSeq exposures="109-113" val="24" id="2"/>
+     <elementSeq exposures="114-119" val="28" id="2"/>
+     <elementSeq exposures="120-125" val="29" id="2"/>
+     <elementSeq exposures="126-130" val="32" id="2"/>
+     <elementSeq exposures="131-135" val="34" id="2"/>
+     <elementSeq exposures="136-148" val="35" id="2"/>
+     <elementSeq exposures="149-154" val="37" id="2"/>
     </column>
     <column type="0" name="ATV-0D1B4AE420A99BEBA9111AB8" displayOrder="1" width="100" anonymous="true" id="3">
      <elementSeq exposures="1-100" val="1" id="3"/>
@@ -153,6 +172,9 @@
      <elementSeq exposures="103" val="2" id="3"/>
      <elementSeq exposures="104" val="3" id="3"/>
      <elementSeq exposures="105" val="4" id="3"/>
+    </column>
+    <column type="0" name="ATV-0DB94A4621619B8F0BA01BCB" displayOrder="4" width="100" anonymous="true" id="4">
+     <elementSeq exposures="1-154" val="1" id="4"/>
     </column>
    </columns>
    <options>
@@ -163,7 +185,7 @@
      <collapsed val="false"/>
     </options>
     <nodeslist>
-     <module type="COMPOSITE" name="Composite" pos="0,0,4" publishUnderTab="Composite">
+     <module type="COMPOSITE" name="Composite" pos="0,0,5" publishUnderTab="Composite">
       <options>
        <collapsed val="false"/>
        <version val="1"/>
@@ -182,13 +204,13 @@
        <mergeVector val="false"/>
       </attrs>
      </module>
-     <module type="DISPLAY" name="Display" pos="50,50,5" publishUnderTab="Display">
+     <module type="DISPLAY" name="Display" pos="50,50,6" publishUnderTab="Display">
       <options>
        <collapsed val="false"/>
        <version val="1"/>
       </options>
      </module>
-     <module type="WRITE" name="Write" pos="-50,50,6" publishUnderTab="Write">
+     <module type="WRITE" name="Write" pos="-50,50,7" publishUnderTab="Write">
       <options>
        <collapsed val="false"/>
        <version val="1"/>
@@ -221,7 +243,7 @@
        <cleanUpPartitionFolders val="true"/>
       </attrs>
      </module>
-     <module type="READ" name="NFGreen" pos="-66,-50,2" publishUnderTab="Drawing">
+     <module type="READ" name="NFGreen" pos="-66,-50,3" publishUnderTab="Drawing">
       <options>
        <collapsed val="false"/>
        <version val="1"/>
@@ -335,7 +357,7 @@
        <useFileUnits val="true"/>
       </attrs>
      </module>
-     <module type="READ" name="Storyboard" pos="77,-50,3" publishUnderTab="Draw">
+     <module type="READ" name="Storyboard" pos="77,-50,4" publishUnderTab="Draw">
       <options>
        <disabled val="true"/>
        <collapsed val="false"/>
@@ -450,7 +472,7 @@
        <useFileUnits val="true"/>
       </attrs>
      </module>
-     <module type="READ" name="NFGreenSword" pos="-233,-50,1" publishUnderTab="NFGreenSword">
+     <module type="READ" name="NFGreenSword" pos="-233,-50,2" publishUnderTab="NFGreenSword">
       <options>
        <collapsed val="false"/>
        <version val="1"/>
@@ -564,13 +586,128 @@
        <useFileUnits val="true"/>
       </attrs>
      </module>
+     <module type="READ" name="Background" pos="174,-80,1" publishUnderTab="Background">
+      <options>
+       <collapsed val="false"/>
+       <version val="1"/>
+      </options>
+      <attrs>
+       <enable3d val="false"/>
+       <faceCamera val="false"/>
+       <cameraAlignment val="NO_CAMERA_ALIGNMENT"/>
+       <offset>
+        <separate val="true"/>
+        <x val="0" defaultValue="0"/>
+        <y val="0" defaultValue="0"/>
+        <z val="0" defaultValue="0"/>
+       </offset>
+       <scale>
+        <separate val="true"/>
+        <inFields val="false"/>
+        <xy val="1" defaultValue="1"/>
+        <x val="1" defaultValue="1"/>
+        <y val="1" defaultValue="1"/>
+        <z val="1" defaultValue="1"/>
+       </scale>
+       <rotation>
+        <separate val="false"/>
+        <anglex val="0" defaultValue="0"/>
+        <angley val="0" defaultValue="0"/>
+        <anglez val="0" defaultValue="0"/>
+       </rotation>
+       <angle val="0" defaultValue="0"/>
+       <skew val="0" defaultValue="0"/>
+       <pivot>
+        <x val="0" defaultValue="0"/>
+        <y val="0" defaultValue="0"/>
+        <z val="0" defaultValue="0"/>
+       </pivot>
+       <splineOffset>
+        <x val="0" defaultValue="0"/>
+        <y val="0" defaultValue="0"/>
+        <z val="0" defaultValue="0"/>
+       </splineOffset>
+       <ignoreParentPegScaling val="false"/>
+       <disableFieldRendering val="false"/>
+       <depth val="0"/>
+       <enableMinMaxAngle val="false"/>
+       <minAngle val="-360" defaultValue="-360"/>
+       <maxAngle val="360" defaultValue="360"/>
+       <nailForChildren val="false"/>
+       <ikHoldOrientation val="false"/>
+       <ikHoldX val="false"/>
+       <ikHoldY val="false"/>
+       <ikExcluded val="false"/>
+       <ikCanRotate val="true"/>
+       <ikCanTranslateX val="false"/>
+       <ikCanTranslateY val="false"/>
+       <ikBoneX val="0.20000000000000001" defaultValue="0.20000000000000001"/>
+       <ikBoneY val="0" defaultValue="0"/>
+       <ikStiffness val="1" defaultValue="1"/>
+       <drawing>
+        <elementMode val="true"/>
+        <element col="ATV-0DB94A4621619B8F0BA01BCB">
+         <layer val=""/>
+        </element>
+        <customName>
+         <name val=""/>
+         <extension val="tga"/>
+         <fieldChart val="12" defaultValue="12"/>
+        </customName>
+       </drawing>
+       <readOverlay val="true"/>
+       <readLineArt val="true"/>
+       <readColorArt val="true"/>
+       <readUnderlay val="true"/>
+       <overlayArtDrawingMode val="VectorDrawingMode"/>
+       <lineArtDrawingMode val="VectorDrawingMode"/>
+       <colorArtDrawingMode val="VectorDrawingMode"/>
+       <underlayArtDrawingMode val="VectorDrawingMode"/>
+       <pencilLineDeformationPreserveThickness val="false"/>
+       <pencilLineDeformationQuality val="Low"/>
+       <pencilLineDeformationSmooth val="1"/>
+       <pencilLineDeformationFitError val="3" defaultValue="3"/>
+       <readColor val="true"/>
+       <readTransparency val="true"/>
+       <colorTransformation val="Linear"/>
+       <colorSpace val="sRGB"/>
+       <applyMatteToColor val="N"/>
+       <enableLineTexture val="true"/>
+       <antialiasingQuality val="HIGH"/>
+       <antialiasingExponent val="1" defaultValue="1"/>
+       <opacity val="100" defaultValue="100"/>
+       <textureFilter val="NEAREST_FILTERED"/>
+       <adjustPencilThickness val="false"/>
+       <normalLineArtThickness val="true"/>
+       <zoomIndependentLineArtThickness val="zoomIndependent"/>
+       <multLineArtThickness val="1" defaultValue="1"/>
+       <addLineArtThickness val="0" defaultValue="0"/>
+       <minLineArtThickness val="0" defaultValue="0"/>
+       <maxLineArtThickness val="0" defaultValue="0"/>
+       <useDrawingPivot val="APPLY_ON_READ_TRANSFORM"/>
+       <flipHor val="false"/>
+       <flipVert val="false"/>
+       <turnBeforeAlignment val="false"/>
+       <noClipping val="false"/>
+       <xClipFactor val="0"/>
+       <yClipFactor val="0"/>
+       <alignmentRule val="CENTER_FIRST_PAGE"/>
+       <morphingVelo val="0" defaultValue="0"/>
+       <canAnimate val="false"/>
+       <tileHorizontal val="false"/>
+       <tileVertical val="false"/>
+       <framerate val="24" defaultValue="-1"/>
+       <useFileUnits val="true"/>
+      </attrs>
+     </module>
     </nodeslist>
     <linkedlist>
      <link out="Composite" in="Display"/>
      <link out="Composite" in="Write"/>
-     <link out="NFGreen" in="Composite" inport="1"/>
-     <link out="Storyboard" in="Composite" inport="0"/>
-     <link out="NFGreenSword" in="Composite" inport="2"/>
+     <link out="NFGreen" in="Composite" inport="2"/>
+     <link out="Storyboard" in="Composite" inport="1"/>
+     <link out="NFGreenSword" in="Composite" inport="3"/>
+     <link out="Background" in="Composite" inport="0"/>
     </linkedlist>
    </rootgroup>
    <unconnectedComposite>
@@ -618,7 +755,7 @@
  </timeline>
  <metas>
   <meta type="checksumValidation" name="checksumValidation" creator="Harmony Premium" version="1.0">
-   <value data="6800000000000000030322B2B59851510F2AE5E74D5B98181B5646A17B3A1E08B2FD255C7B92670361DFE5C88B78ECDC325BBDCA6BE3174F7FC91D4B6332BD601D30321698ED534FF4201239C29BBCAEA5FF78D8FF0E6A03780F499245E6EB316ED488D32BEB495B3BDB21012350BA645B0200002D2D2D2D2D424547494E2043455254494649434154452D2D2D2D2D0A4D4949426B5443422B3641444167454341674945306A414E42676B71686B694739773042415155464144412B4D517377435159445651514745774A44515445500A4D4130474131554543424D475558566C596D566A4D52347748415944565151444578567361574E6C626E4E6C6369353062323975596D39766253356A623230770A4868634E4D6A59774D5441324D5459794F4451355768634E4D7A59774D5441314D5459794F445135576A416A4D517377435159445651514745774A44515445550A4D424947413155454177774C56305643587A49794E4455334E6A4D775844414E42676B71686B6947397730424151454641414E4C41444249416B45416D762F6D0A6F644B797944794A4731572B3239754E744F6F6C345A4A6C6E4F732B446831572F524F67336E524C6F334849447A46595833654258514F7975394B6C526D46430A54346C476D344D424B716B635067756A66514944415141424D41304743537147534962334451454242515541413447424143674B393430622B4A49665A4F46750A4B6945702B624E6F5A3243376C65726A6D576E467275703268797579634B6F4A3775466F3764686F72354A5A4E736271324F6C724549746575544F57457441340A593537434E5948554B3175746D344B62436D6A5667646F7A36424E47714931635367334A76734A69586E6D316C544F7A66737972576A565846614C6438654C720A6557796552447962422F43457854432F32633870434773533133754D0A2D2D2D2D2D454E442043455254494649434154452D2D2D2D2D0A400000008B67E267A08253A5A7B04D87ED1522C15499E8AA7A96F2C9B03EE1D49954D0789A65C12EB8A7FC117121F40E5B95300D4BF6EB069E9CE449537247EA6CFF0C4C"/>
+   <value data="6800000000000000030321B1B69B52520C29E6E44E589B1B185545A278391D0BB1FE265F7891640062DCE6CB887BEFDF3158BEC968E0144C7CCA1E486031BE631E3331159BEE504CF723113AC198BFADA6FC7BDBFC0D69007B0C4A9146E5E8326DD78BD028E84A5838D822022053B9675B0200002D2D2D2D2D424547494E2043455254494649434154452D2D2D2D2D0A4D4949426B5443422B3641444167454341674945306A414E42676B71686B694739773042415155464144412B4D517377435159445651514745774A44515445500A4D4130474131554543424D475558566C596D566A4D52347748415944565151444578567361574E6C626E4E6C6369353062323975596D39766253356A623230770A4868634E4D6A59774D5441324D5459794F4451355768634E4D7A59774D5441314D5459794F445135576A416A4D517377435159445651514745774A44515445550A4D424947413155454177774C56305643587A49794E4455334E6A4D775844414E42676B71686B6947397730424151454641414E4C41444249416B45416D762F6D0A6F644B797944794A4731572B3239754E744F6F6C345A4A6C6E4F732B446831572F524F67336E524C6F334849447A46595833654258514F7975394B6C526D46430A54346C476D344D424B716B635067756A66514944415141424D41304743537147534962334451454242515541413447424143674B393430622B4A49665A4F46750A4B6945702B624E6F5A3243376C65726A6D576E467275703268797579634B6F4A3775466F3764686F72354A5A4E736271324F6C724549746575544F57457441340A593537434E5948554B3175746D344B62436D6A5667646F7A36424E47714931635367334A76734A69586E6D316C544F7A66737972576A565846614C6438654C720A6557796552447962422F43457854432F32633870434773533133754D0A2D2D2D2D2D454E442043455254494649434154452D2D2D2D2D0A40000000099223B607C873D42E4BA9E703D4E2C7D6D41ACB2B532AAC72A99A628B5547F7234F57B1AE3BD205F3D3B59D218D5F4694D0E4A1AA128EF23416CF9059EC550B"/>
   </meta>
  </metas>
 </project>
