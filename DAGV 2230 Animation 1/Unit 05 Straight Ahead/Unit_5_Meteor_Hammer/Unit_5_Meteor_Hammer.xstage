@@ -1,9 +1,13 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<project  source="Harmony Premium (HarmonyPremium.exe) version 25.2.0 build 24991 2026-03-25 08:42:03" version="2520" build="24991" date="Sat Sep 26 21:52:30 2026" timeMsec="1790481150321" username="Brian" realUsername="Brian" creator="harmony">
+<project  source="Harmony Premium (HarmonyPremium.exe) version 25.2.0 build 24991 2026-03-25 08:42:03" version="2520" build="24991" date="Sun Sep 27 23:24:20 2026" timeMsec="1790573060573" username="Brian" realUsername="Brian" creator="harmony">
  <elements>
   <element id="1" elementName="Fodder" elementFolder="Fodder" pixmapFormat="2" scanType="2" fieldChart="12" vectorType="2" rootFolder="elements">
    <drawings>
     <dwg name="1"/>
+    <dwg name="2"/>
+    <dwg name="3"/>
+    <dwg name="4"/>
+    <dwg name="5"/>
    </drawings>
   </element>
   <element id="2" elementName="B3N51" elementFolder="B3N51" pixmapFormat="2" scanType="2" fieldChart="12" vectorType="2" rootFolder="elements">
@@ -19,6 +23,23 @@
     <dwg name="9"/>
     <dwg name="10"/>
     <dwg name="11"/>
+    <dwg name="12"/>
+    <dwg name="13"/>
+    <dwg name="14"/>
+    <dwg name="15"/>
+    <dwg name="16"/>
+    <dwg name="17"/>
+    <dwg name="18"/>
+    <dwg name="19"/>
+    <dwg name="20"/>
+    <dwg name="21"/>
+    <dwg name="22"/>
+    <dwg name="23"/>
+   </drawings>
+  </element>
+  <element id="3" elementName="BG" elementFolder="BG" pixmapFormat="2" scanType="2" fieldChart="12" vectorType="2" rootFolder="elements">
+   <drawings>
+    <dwg name="1"/>
    </drawings>
   </element>
  </elements>
@@ -44,7 +65,11 @@
   <scene name="Top" id="0d4e4e2ab160178e" nbframes="60" startFrame="1" stopFrame="60">
    <columns>
     <column type="0" name="Drawing" displayOrder="2" width="100" anonymous="true" id="1">
-     <elementSeq exposures="1-30" val="1" id="1"/>
+     <elementSeq exposures="1-38" val="1" id="1"/>
+     <elementSeq exposures="45-46" val="2" id="1"/>
+     <elementSeq exposures="47-48" val="3" id="1"/>
+     <elementSeq exposures="49-50,53-60" val="4" id="1"/>
+     <elementSeq exposures="51-52" val="5" id="1"/>
     </column>
     <column type="0" name="ATV-0DD34E2C4EBF2A6BB16A2CE1" displayOrder="1" width="100" anonymous="true" id="2">
      <elementSeq exposures="1-2" val="1" id="2"/>
@@ -58,6 +83,21 @@
      <elementSeq exposures="17-18" val="9" id="2"/>
      <elementSeq exposures="19-20" val="10" id="2"/>
      <elementSeq exposures="21-22" val="11" id="2"/>
+     <elementSeq exposures="23-24" val="12" id="2"/>
+     <elementSeq exposures="25-26" val="13" id="2"/>
+     <elementSeq exposures="27-28" val="14" id="2"/>
+     <elementSeq exposures="29-30" val="15" id="2"/>
+     <elementSeq exposures="31-32" val="16" id="2"/>
+     <elementSeq exposures="33-34" val="17" id="2"/>
+     <elementSeq exposures="35-36" val="18" id="2"/>
+     <elementSeq exposures="37-38" val="19" id="2"/>
+     <elementSeq exposures="39-40" val="20" id="2"/>
+     <elementSeq exposures="41-42" val="21" id="2"/>
+     <elementSeq exposures="43-44" val="22" id="2"/>
+     <elementSeq exposures="45-60" val="23" id="2"/>
+    </column>
+    <column type="0" name="ATV-0D6C4F9315892131B641D5F7" displayOrder="3" width="100" anonymous="true" id="3">
+     <elementSeq exposures="1-60" val="1" id="3"/>
     </column>
    </columns>
    <options>
@@ -68,7 +108,7 @@
      <collapsed val="false"/>
     </options>
     <nodeslist>
-     <module type="COMPOSITE" name="Composite" pos="0,0,3" publishUnderTab="Composite">
+     <module type="COMPOSITE" name="Composite" pos="0,0,5" publishUnderTab="Composite">
       <options>
        <collapsed val="false"/>
        <version val="1"/>
@@ -87,13 +127,13 @@
        <mergeVector val="false"/>
       </attrs>
      </module>
-     <module type="DISPLAY" name="Display" pos="50,50,4" publishUnderTab="Display">
+     <module type="DISPLAY" name="Display" pos="50,50,6" publishUnderTab="Display">
       <options>
        <collapsed val="false"/>
        <version val="1"/>
       </options>
      </module>
-     <module type="WRITE" name="Write" pos="-50,50,5" publishUnderTab="Write">
+     <module type="WRITE" name="Write" pos="-50,50,7" publishUnderTab="Write">
       <options>
        <collapsed val="false"/>
        <version val="1"/>
@@ -126,7 +166,7 @@
        <cleanUpPartitionFolders val="true"/>
       </attrs>
      </module>
-     <module type="READ" name="Fodder" pos="40,-74,1" publishUnderTab="Drawing">
+     <module type="READ" name="Fodder" pos="11,-92,3" publishUnderTab="Drawing">
       <options>
        <collapsed val="false"/>
        <version val="1"/>
@@ -240,7 +280,7 @@
        <useFileUnits val="true"/>
       </attrs>
      </module>
-     <module type="READ" name="B3N51" pos="-125,-96,2" publishUnderTab="Drawing_1">
+     <module type="READ" name="B3N51" pos="-125,-96,4" publishUnderTab="Drawing_1">
       <options>
        <collapsed val="false"/>
        <version val="1"/>
@@ -354,12 +394,127 @@
        <useFileUnits val="true"/>
       </attrs>
      </module>
+     <module type="READ" name="BG" pos="134,-92,1" publishUnderTab="BG">
+      <options>
+       <collapsed val="false"/>
+       <version val="1"/>
+      </options>
+      <attrs>
+       <enable3d val="false"/>
+       <faceCamera val="false"/>
+       <cameraAlignment val="NO_CAMERA_ALIGNMENT"/>
+       <offset>
+        <separate val="true"/>
+        <x val="0" defaultValue="0"/>
+        <y val="0" defaultValue="0"/>
+        <z val="0" defaultValue="0"/>
+       </offset>
+       <scale>
+        <separate val="true"/>
+        <inFields val="false"/>
+        <xy val="1" defaultValue="1"/>
+        <x val="1" defaultValue="1"/>
+        <y val="1" defaultValue="1"/>
+        <z val="1" defaultValue="1"/>
+       </scale>
+       <rotation>
+        <separate val="false"/>
+        <anglex val="0" defaultValue="0"/>
+        <angley val="0" defaultValue="0"/>
+        <anglez val="0" defaultValue="0"/>
+       </rotation>
+       <angle val="0" defaultValue="0"/>
+       <skew val="0" defaultValue="0"/>
+       <pivot>
+        <x val="0" defaultValue="0"/>
+        <y val="0" defaultValue="0"/>
+        <z val="0" defaultValue="0"/>
+       </pivot>
+       <splineOffset>
+        <x val="0" defaultValue="0"/>
+        <y val="0" defaultValue="0"/>
+        <z val="0" defaultValue="0"/>
+       </splineOffset>
+       <ignoreParentPegScaling val="false"/>
+       <disableFieldRendering val="false"/>
+       <depth val="0"/>
+       <enableMinMaxAngle val="false"/>
+       <minAngle val="-360" defaultValue="-360"/>
+       <maxAngle val="360" defaultValue="360"/>
+       <nailForChildren val="false"/>
+       <ikHoldOrientation val="false"/>
+       <ikHoldX val="false"/>
+       <ikHoldY val="false"/>
+       <ikExcluded val="false"/>
+       <ikCanRotate val="true"/>
+       <ikCanTranslateX val="false"/>
+       <ikCanTranslateY val="false"/>
+       <ikBoneX val="0.20000000000000001" defaultValue="0.20000000000000001"/>
+       <ikBoneY val="0" defaultValue="0"/>
+       <ikStiffness val="1" defaultValue="1"/>
+       <drawing>
+        <elementMode val="true"/>
+        <element col="ATV-0D6C4F9315892131B641D5F7">
+         <layer val=""/>
+        </element>
+        <customName>
+         <name val=""/>
+         <extension val="tga"/>
+         <fieldChart val="12" defaultValue="12"/>
+        </customName>
+       </drawing>
+       <readOverlay val="true"/>
+       <readLineArt val="true"/>
+       <readColorArt val="true"/>
+       <readUnderlay val="true"/>
+       <overlayArtDrawingMode val="VectorDrawingMode"/>
+       <lineArtDrawingMode val="VectorDrawingMode"/>
+       <colorArtDrawingMode val="VectorDrawingMode"/>
+       <underlayArtDrawingMode val="VectorDrawingMode"/>
+       <pencilLineDeformationPreserveThickness val="false"/>
+       <pencilLineDeformationQuality val="Low"/>
+       <pencilLineDeformationSmooth val="1"/>
+       <pencilLineDeformationFitError val="3" defaultValue="3"/>
+       <readColor val="true"/>
+       <readTransparency val="true"/>
+       <colorTransformation val="Linear"/>
+       <colorSpace val="sRGB"/>
+       <applyMatteToColor val="N"/>
+       <enableLineTexture val="true"/>
+       <antialiasingQuality val="HIGH"/>
+       <antialiasingExponent val="1" defaultValue="1"/>
+       <opacity val="100" defaultValue="100"/>
+       <textureFilter val="NEAREST_FILTERED"/>
+       <adjustPencilThickness val="false"/>
+       <normalLineArtThickness val="true"/>
+       <zoomIndependentLineArtThickness val="zoomIndependent"/>
+       <multLineArtThickness val="1" defaultValue="1"/>
+       <addLineArtThickness val="0" defaultValue="0"/>
+       <minLineArtThickness val="0" defaultValue="0"/>
+       <maxLineArtThickness val="0" defaultValue="0"/>
+       <useDrawingPivot val="APPLY_ON_READ_TRANSFORM"/>
+       <flipHor val="false"/>
+       <flipVert val="false"/>
+       <turnBeforeAlignment val="false"/>
+       <noClipping val="false"/>
+       <xClipFactor val="0"/>
+       <yClipFactor val="0"/>
+       <alignmentRule val="CENTER_FIRST_PAGE"/>
+       <morphingVelo val="0" defaultValue="0"/>
+       <canAnimate val="false"/>
+       <tileHorizontal val="false"/>
+       <tileVertical val="false"/>
+       <framerate val="24" defaultValue="-1"/>
+       <useFileUnits val="true"/>
+      </attrs>
+     </module>
     </nodeslist>
     <linkedlist>
      <link out="Composite" in="Display"/>
      <link out="Composite" in="Write"/>
-     <link out="Fodder" in="Composite" inport="0"/>
-     <link out="B3N51" in="Composite" inport="1"/>
+     <link out="Fodder" in="Composite" inport="1"/>
+     <link out="B3N51" in="Composite" inport="2"/>
+     <link out="BG" in="Composite" inport="0"/>
     </linkedlist>
    </rootgroup>
    <unconnectedComposite>
@@ -407,7 +562,7 @@
  </timeline>
  <metas>
   <meta type="checksumValidation" name="checksumValidation" creator="Harmony Premium" version="1.0">
-   <value data="6C000000000000000303B458AA874E4E0520EFE54F39FA7A6924B472AE4FF5F6ACB74706459A4300563C22279ACC843977D65F8B7A9478452E6FB157486CD9A3495A3FFF8341D0A78825B1B1DCE34EA091F4FC134C557E107665C62B587E05AFD259D69D0F99AA1012F02E66692693927C0132DC5B0200002D2D2D2D2D424547494E2043455254494649434154452D2D2D2D2D0A4D4949426B5443422B3641444167454341674945306A414E42676B71686B694739773042415155464144412B4D517377435159445651514745774A44515445500A4D4130474131554543424D475558566C596D566A4D52347748415944565151444578567361574E6C626E4E6C6369353062323975596D39766253356A623230770A4868634E4D6A59774D5441324D5459794F4451355768634E4D7A59774D5441314D5459794F445135576A416A4D517377435159445651514745774A44515445550A4D424947413155454177774C56305643587A49794E4455334E6A4D775844414E42676B71686B6947397730424151454641414E4C41444249416B45416D762F6D0A6F644B797944794A4731572B3239754E744F6F6C345A4A6C6E4F732B446831572F524F67336E524C6F334849447A46595833654258514F7975394B6C526D46430A54346C476D344D424B716B635067756A66514944415141424D41304743537147534962334451454242515541413447424143674B393430622B4A49665A4F46750A4B6945702B624E6F5A3243376C65726A6D576E467275703268797579634B6F4A3775466F3764686F72354A5A4E736271324F6C724549746575544F57457441340A593537434E5948554B3175746D344B62436D6A5667646F7A36424E47714931635367334A76734A69586E6D316C544F7A66737972576A565846614C6438654C720A6557796552447962422F43457854432F32633870434773533133754D0A2D2D2D2D2D454E442043455254494649434154452D2D2D2D2D0A40000000893FB3863616EDF685086248B55C9C8209868D3B8C81BB8A8FE06DA9C93937B911C56DF25D7F3D36469F192C1D2A7B07D00232264F7B638E5B07D1D940566A22"/>
+   <value data="6C000000000000000303C22EDCF1383873569993394F8C0C1F52C204D8398380DAC1317033EC3576204A5451ECBAF24F01A029FD0CE20E335819C7213E1AAFD53F2C4989F537A6D1FE53C7C7AA9538D6E7828A653A2308660013B05D2E0873D9A42FA0EB79EFDC66648658101F50E5E40A7744AA5B0200002D2D2D2D2D424547494E2043455254494649434154452D2D2D2D2D0A4D4949426B5443422B3641444167454341674945306A414E42676B71686B694739773042415155464144412B4D517377435159445651514745774A44515445500A4D4130474131554543424D475558566C596D566A4D52347748415944565151444578567361574E6C626E4E6C6369353062323975596D39766253356A623230770A4868634E4D6A59774D5441324D5459794F4451355768634E4D7A59774D5441314D5459794F445135576A416A4D517377435159445651514745774A44515445550A4D424947413155454177774C56305643587A49794E4455334E6A4D775844414E42676B71686B6947397730424151454641414E4C41444249416B45416D762F6D0A6F644B797944794A4731572B3239754E744F6F6C345A4A6C6E4F732B446831572F524F67336E524C6F334849447A46595833654258514F7975394B6C526D46430A54346C476D344D424B716B635067756A66514944415141424D41304743537147534962334451454242515541413447424143674B393430622B4A49665A4F46750A4B6945702B624E6F5A3243376C65726A6D576E467275703268797579634B6F4A3775466F3764686F72354A5A4E736271324F6C724549746575544F57457441340A593537434E5948554B3175746D344B62436D6A5667646F7A36424E47714931635367334A76734A69586E6D316C544F7A66737972576A565846614C6438654C720A6557796552447962422F43457854432F32633870434773533133754D0A2D2D2D2D2D454E442043455254494649434154452D2D2D2D2D0A40000000392D9C675AA9A390397C79519D45CFFE138878A88BD2CDAA8F243D15CB5CC76F2DD51C5C9BD5CD04D05E0AFBECDF94DC40FA3F00E0E042F826208DDF180928C3"/>
   </meta>
  </metas>
 </project>
