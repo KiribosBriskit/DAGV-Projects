@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<elements  source="Harmony Premium (HarmonyPremium.exe) version 25.0.0 build 23967 2025-06-05 18:44:20" version="2500" build="23967" date="Wed Oct 7 10:57:18 2026" timeMsec="1791392238048" username="11033142" realUsername="11033142">
+<elements  source="Harmony Premium (HarmonyPremium.exe) version 25.2.0 build 24991 2026-03-25 08:42:03" version="2520" build="24991" date="Sun Oct 11 23:59:17 2026" timeMsec="1791784757736" username="Brian" realUsername="Brian">
  <element id="1" elementName="gordon" elementFolder="gordon" pixmapFormat="2" scanType="2" fieldChart="12" vectorType="2" rootFolder="elements"/>
  <element id="2" elementName="guide" elementFolder="guide" pixmapFormat="2" scanType="2" fieldChart="12" vectorType="2" rootFolder="elements"/>
  <element id="3" elementName="bg" elementFolder="bg" pixmapFormat="2" scanType="2" fieldChart="12" vectorType="2" rootFolder="elements"/>
