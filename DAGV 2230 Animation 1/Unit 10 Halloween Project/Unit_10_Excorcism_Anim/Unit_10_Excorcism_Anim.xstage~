@@ -1,10 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<project  source="Harmony Premium (HarmonyPremium.exe) version 25.0.0 build 23967 2025-06-05 18:44:20" version="2500" build="23967" date="Wed Oct 28 14:02:06 2026" timeMsec="1793217726154" username="11033142" realUsername="11033142" creator="harmony">
+<project  source="Harmony Premium (HarmonyPremium.exe) version 25.2.0 build 24991 2026-03-25 08:42:03" version="2520" build="24991" date="Thu Oct 29 23:59:56 2026" timeMsec="1793339996968" username="Brian" realUsername="Brian" creator="harmony">
  <elements>
   <element id="1" elementName="BG" elementFolder="BG" pixmapFormat="2" scanType="2" fieldChart="12" vectorType="2" rootFolder="elements">
    <drawings>
     <dwg name="1"/>
     <dwg name="2"/>
+    <dwg name="3"/>
    </drawings>
   </element>
   <element id="2" elementName="Unit_10_Halloween_Excorcism_Animatic" elementFolder="Unit_10_Halloween_Excorcism_Animatic" pixmapFormat="2" scanType="2" fieldChart="12" vectorType="2" rootFolder="elements">
@@ -1817,6 +1818,16 @@
    <drawings>
     <dwg name="1"/>
     <dwg name="2"/>
+    <dwg name="3"/>
+    <dwg name="4"/>
+    <dwg name="5"/>
+    <dwg name="6"/>
+    <dwg name="7"/>
+    <dwg name="8"/>
+    <dwg name="9"/>
+    <dwg name="10"/>
+    <dwg name="11"/>
+    <dwg name="12"/>
    </drawings>
   </element>
   <element id="4" elementName="Cultist" elementFolder="Cultist" pixmapFormat="2" scanType="2" fieldChart="12" vectorType="2" rootFolder="elements">
@@ -1835,6 +1846,33 @@
     <dwg name="12"/>
     <dwg name="13"/>
     <dwg name="14"/>
+    <dwg name="15"/>
+    <dwg name="16"/>
+    <dwg name="17"/>
+    <dwg name="18"/>
+    <dwg name="19"/>
+    <dwg name="20"/>
+    <dwg name="21"/>
+    <dwg name="22"/>
+    <dwg name="23"/>
+    <dwg name="24"/>
+    <dwg name="25"/>
+    <dwg name="26"/>
+    <dwg name="27"/>
+    <dwg name="28"/>
+    <dwg name="29"/>
+    <dwg name="30"/>
+    <dwg name="31"/>
+    <dwg name="32"/>
+    <dwg name="33"/>
+    <dwg name="34"/>
+    <dwg name="35"/>
+    <dwg name="36"/>
+    <dwg name="37"/>
+    <dwg name="38"/>
+    <dwg name="39"/>
+    <dwg name="40"/>
+    <dwg name="41"/>
    </drawings>
   </element>
  </elements>
@@ -1861,11 +1899,12 @@
  <scenes>
   <scene name="Top" id="0d573894c6d014e3" nbframes="1802" startFrame="1" stopFrame="1802">
    <columns>
-    <column type="0" name="Drawing" displayOrder="4" width="100" anonymous="true" id="1">
+    <column type="0" name="Drawing" displayOrder="3" width="100" anonymous="true" id="1">
      <elementSeq exposures="216" val="1" id="1"/>
      <elementSeq exposures="361" val="2" id="1"/>
+     <elementSeq exposures="594-622" val="3" id="1"/>
     </column>
-    <column type="0" name="ATV-0D7D5782388E943EC6D01C49" displayOrder="1" width="100" anonymous="true" id="2">
+    <column type="0" name="ATV-0D7D5782388E943EC6D01C49" displayOrder="4" width="100" anonymous="true" id="2">
      <elementSeq exposures="1" val="1" id="2"/>
      <elementSeq exposures="2" val="2" id="2"/>
      <elementSeq exposures="3" val="3" id="2"/>
@@ -3669,11 +3708,21 @@
      <elementSeq exposures="1801" val="1801" id="2"/>
      <elementSeq exposures="1802" val="1802" id="2"/>
     </column>
-    <column type="0" name="ATV-0DF3570C383994D9C6D03C13" displayOrder="2" width="100" anonymous="true" id="3">
+    <column type="0" name="ATV-0DF3570C383994D9C6D03C13" displayOrder="1" width="100" anonymous="true" id="3">
      <elementSeq exposures="216" val="1" id="3"/>
      <elementSeq exposures="493-504" val="2" id="3"/>
+     <elementSeq exposures="1163" val="3" id="3"/>
+     <elementSeq exposures="1186-1209" val="4" id="3"/>
+     <elementSeq exposures="1210" val="5" id="3"/>
+     <elementSeq exposures="1221" val="6" id="3"/>
+     <elementSeq exposures="1251" val="7" id="3"/>
+     <elementSeq exposures="1265" val="8" id="3"/>
+     <elementSeq exposures="1296" val="9" id="3"/>
+     <elementSeq exposures="1311" val="10" id="3"/>
+     <elementSeq exposures="1505" val="11" id="3"/>
+     <elementSeq exposures="1530" val="12" id="3"/>
     </column>
-    <column type="0" name="ATV-0DB0574F381D947DC6D03CC1" displayOrder="3" width="100" anonymous="true" id="4">
+    <column type="0" name="ATV-0DB0574F381D947DC6D03CC1" displayOrder="2" width="100" anonymous="true" id="4">
      <elementSeq exposures="385" val="1" id="4"/>
      <elementSeq exposures="392-414" val="2" id="4"/>
      <elementSeq exposures="415-438" val="3" id="4"/>
@@ -3688,6 +3737,32 @@
      <elementSeq exposures="513" val="11" id="4"/>
      <elementSeq exposures="538" val="13" id="4"/>
      <elementSeq exposures="546" val="14" id="4"/>
+     <elementSeq exposures="594" val="15" id="4"/>
+     <elementSeq exposures="622" val="16" id="4"/>
+     <elementSeq exposures="639" val="17" id="4"/>
+     <elementSeq exposures="665" val="18" id="4"/>
+     <elementSeq exposures="698" val="19" id="4"/>
+     <elementSeq exposures="748" val="20" id="4"/>
+     <elementSeq exposures="749" val="21" id="4"/>
+     <elementSeq exposures="783-806" val="22" id="4"/>
+     <elementSeq exposures="807-834" val="23" id="4"/>
+     <elementSeq exposures="835-854" val="24" id="4"/>
+     <elementSeq exposures="855" val="25" id="4"/>
+     <elementSeq exposures="885" val="26" id="4"/>
+     <elementSeq exposures="925" val="27" id="4"/>
+     <elementSeq exposures="934" val="29" id="4"/>
+     <elementSeq exposures="958" val="30" id="4"/>
+     <elementSeq exposures="993" val="31" id="4"/>
+     <elementSeq exposures="1006" val="32" id="4"/>
+     <elementSeq exposures="1021" val="33" id="4"/>
+     <elementSeq exposures="1058" val="34" id="4"/>
+     <elementSeq exposures="1084" val="35" id="4"/>
+     <elementSeq exposures="1089" val="36" id="4"/>
+     <elementSeq exposures="1115" val="37" id="4"/>
+     <elementSeq exposures="1150" val="38" id="4"/>
+     <elementSeq exposures="1163" val="39" id="4"/>
+     <elementSeq exposures="1488" val="40" id="4"/>
+     <elementSeq exposures="1505" val="41" id="4"/>
     </column>
    </columns>
    <options>
@@ -3698,7 +3773,7 @@
      <collapsed val="false"/>
     </options>
     <nodeslist>
-     <module type="COMPOSITE" name="The_Origin" pos="-306,330,6" publishUnderTab="Composite">
+     <module type="COMPOSITE" name="The_Origin" pos="-306,330,5" publishUnderTab="Composite">
       <options>
        <collapsed val="false"/>
        <nodeShowThumbnail val="true"/>
@@ -3718,13 +3793,13 @@
        <mergeVector val="false"/>
       </attrs>
      </module>
-     <module type="DISPLAY" name="Display" pos="-250,380,7" publishUnderTab="Display">
+     <module type="DISPLAY" name="Display" pos="-250,380,6" publishUnderTab="Display">
       <options>
        <collapsed val="false"/>
        <version val="1"/>
       </options>
      </module>
-     <module type="WRITE" name="Write" pos="-350,380,16" publishUnderTab="Write">
+     <module type="WRITE" name="Write" pos="-350,380,15" publishUnderTab="Write">
       <options>
        <collapsed val="false"/>
        <version val="1"/>
@@ -3747,17 +3822,21 @@
         <filterResY val="540"/>
        </enabling>
        <scriptMovie val="false"/>
-       <scriptEditor val="// Following code will be called at the end of Write Node rendering
+       <scriptEditor>
+        <val>
+         <![CDATA[// Following code will be called at the end of Write Node rendering
 // operations to create a movie file from rendered images.
 
-// ..."/>
+// ...]]>
+        </val>
+       </scriptEditor>
        <colorSpace val=""/>
        <compositePartitioning val="NoCompositePartitioning"/>
        <zPartitionRange val="1" defaultValue="1"/>
        <cleanUpPartitionFolders val="true"/>
       </attrs>
      </module>
-     <module type="READ" name="BG" pos="220,-61,4" publishUnderTab="Drawing">
+     <module type="READ" name="BG" pos="220,-61,3" publishUnderTab="Drawing">
       <options>
        <collapsed val="false"/>
        <version val="1"/>
@@ -3868,9 +3947,10 @@
        <tileHorizontal val="false"/>
        <tileVertical val="false"/>
        <framerate val="-1" defaultValue="-1"/>
+       <useFileUnits val="false"/>
       </attrs>
      </module>
-     <module type="READ" name="Unit_10_Halloween_Excorcism_Animatic" pos="-1036,-224,8" publishUnderTab="Unit_10_Halloween_Excorcism_Animatic">
+     <module type="READ" name="Unit_10_Halloween_Excorcism_Animatic" pos="-1036,-224,7" publishUnderTab="Unit_10_Halloween_Excorcism_Animatic">
       <options>
        <collapsed val="false"/>
        <version val="1"/>
@@ -3981,9 +4061,10 @@
        <tileHorizontal val="false"/>
        <tileVertical val="false"/>
        <framerate val="24" defaultValue="-1"/>
+       <useFileUnits val="false"/>
       </attrs>
      </module>
-     <module type="READ" name="Gordon_Sketch" pos="-527,-285,3" publishUnderTab="Pumpkin">
+     <module type="READ" name="Gordon_Sketch" pos="-527,-285,1" publishUnderTab="Pumpkin">
       <options>
        <collapsed val="false"/>
        <version val="1"/>
@@ -4094,9 +4175,10 @@
        <tileHorizontal val="false"/>
        <tileVertical val="false"/>
        <framerate val="24" defaultValue="-1"/>
+       <useFileUnits val="false"/>
       </attrs>
      </module>
-     <module type="READ" name="Cultist" pos="-91,-234,1" publishUnderTab="Cultist">
+     <module type="READ" name="Cultist" pos="-91,-234,2" publishUnderTab="Cultist">
       <options>
        <collapsed val="false"/>
        <version val="1"/>
@@ -4207,9 +4289,10 @@
        <tileHorizontal val="false"/>
        <tileVertical val="false"/>
        <framerate val="24" defaultValue="-1"/>
+       <useFileUnits val="false"/>
       </attrs>
      </module>
-     <module type="COMPOSITE" name="Gordon_Composite" pos="-451,-219,14" publishUnderTab="Composite_1">
+     <module type="COMPOSITE" name="Gordon_Composite" pos="-451,-219,13" publishUnderTab="Composite_1">
       <options>
        <collapsed val="false"/>
        <version val="1"/>
@@ -4228,7 +4311,7 @@
        <mergeVector val="false"/>
       </attrs>
      </module>
-     <module type="PEG" name="Gordon_Peg" pos="-434,-355,15" publishUnderTab="Peg">
+     <module type="PEG" name="Gordon_Peg" pos="-434,-355,14" publishUnderTab="Peg">
       <options>
        <collapsed val="false"/>
        <version val="1"/>
@@ -4290,7 +4373,7 @@
        <addCompositeToGroup val="true"/>
       </attrs>
      </module>
-     <module type="COMPOSITE" name="Animatic_Composite" pos="-951,-158,13" publishUnderTab="Composite">
+     <module type="COMPOSITE" name="Animatic_Composite" pos="-951,-158,12" publishUnderTab="Composite">
       <options>
        <collapsed val="false"/>
        <version val="1"/>
@@ -4309,7 +4392,7 @@
        <mergeVector val="false"/>
       </attrs>
      </module>
-     <module type="COMPOSITE" name="Cultist_Composite" pos="-59,-196,10" publishUnderTab="Composite">
+     <module type="COMPOSITE" name="Cultist_Composite" pos="-59,-196,9" publishUnderTab="Composite">
       <options>
        <collapsed val="false"/>
        <version val="1"/>
@@ -4328,7 +4411,7 @@
        <mergeVector val="false"/>
       </attrs>
      </module>
-     <module type="PEG" name="Cultist-P" pos="-32,-271,12" publishUnderTab="Cultist-P">
+     <module type="PEG" name="Cultist-P" pos="-32,-271,11" publishUnderTab="Cultist-P">
       <options>
        <collapsed val="false"/>
        <version val="1"/>
@@ -4390,7 +4473,7 @@
        <addCompositeToGroup val="true"/>
       </attrs>
      </module>
-     <module type="PEG" name="BG-P" pos="208,-107,11" publishUnderTab="BG-P">
+     <module type="PEG" name="BG-P" pos="208,-107,10" publishUnderTab="BG-P">
       <options>
        <collapsed val="false"/>
        <version val="1"/>
@@ -4452,7 +4535,7 @@
        <addCompositeToGroup val="true"/>
       </attrs>
      </module>
-     <module type="COMPOSITE" name="BG_Composite" pos="187,-22,5" publishUnderTab="Composite_1">
+     <module type="COMPOSITE" name="BG_Composite" pos="187,-22,4" publishUnderTab="Composite_1">
       <options>
        <collapsed val="false"/>
        <version val="1"/>
@@ -4471,7 +4554,7 @@
        <mergeVector val="false"/>
       </attrs>
      </module>
-     <module type="PEG" name="Unit_10_Halloween_Excorcism_Animatic-P" pos="-1043,-260,9" publishUnderTab="Unit_10_Halloween_Excorcism_Animatic-P">
+     <module type="PEG" name="Unit_10_Halloween_Excorcism_Animatic-P" pos="-1043,-260,8" publishUnderTab="Unit_10_Halloween_Excorcism_Animatic-P">
       <options>
        <collapsed val="false"/>
        <version val="1"/>
@@ -4541,13 +4624,13 @@
      <link out="Unit_10_Halloween_Excorcism_Animatic" in="Animatic_Composite"/>
      <link out="Gordon_Sketch" in="Gordon_Composite"/>
      <link out="Cultist" in="Cultist_Composite"/>
-     <link out="Gordon_Composite" in="The_Origin" inport="2"/>
+     <link out="Gordon_Composite" in="The_Origin" inport="3"/>
      <link out="Gordon_Peg" in="Gordon_Sketch" inport="0"/>
-     <link out="Animatic_Composite" in="The_Origin" inport="3"/>
-     <link out="Cultist_Composite" in="The_Origin" inport="1"/>
+     <link out="Animatic_Composite" in="The_Origin" inport="0"/>
+     <link out="Cultist_Composite" in="The_Origin" inport="2"/>
      <link out="Cultist-P" in="Cultist" inport="0"/>
      <link out="BG-P" in="BG" inport="0"/>
-     <link out="BG_Composite" in="The_Origin" inport="0"/>
+     <link out="BG_Composite" in="The_Origin" inport="1"/>
      <link out="Unit_10_Halloween_Excorcism_Animatic-P" in="Unit_10_Halloween_Excorcism_Animatic" inport="0"/>
     </linkedlist>
     <backdrops>
@@ -4618,7 +4701,7 @@
  </timeline>
  <metas>
   <meta type="checksumValidation" name="checksumValidation" creator="Harmony Premium" version="1.0">
-   <value data="6D000000000000000303E01C022FE6E6AD88474DE711D292E1A8FB3D2BDFC1B7BDED21296BDF29C4C7D482EC53E3A61DC1FE46EAA78420E1B8BC9ECF3DF7E30A8B555B1B03EB9EFC4CE2CB4C7EFC56B5477B4ED019F363446E7A395AA4DA01925F36074538796ECAB36CB20DC82D0BF0C2449D9C406B0200002D2D2D2D2D424547494E2043455254494649434154452D2D2D2D2D0A4D4949426E444343415157674177494241674943424E49774451594A4B6F5A496876634E4151454642514177506A454C4D416B474131554542684D43513045780A447A414E42674E5642416754426C46315A574A6C597A45654D4277474131554541784D5662476C6A5A57357A5A58497564473976626D4A7662323075593239740A4D423458445449324D444D784F5445324D5445784F566F5844544D324D444D784E7A45324D5445784F566F774C54454C4D416B474131554542684D43513045780A486A416342674E5642414D4D46564E47587A41774D576F774D4441774D44424D5958564662554642536A42634D413047435371475349623344514542415155410A413073414D4567435151446371555161785869466871643830497059547763495855496846724A4D7731706151384D5A4A5A4F68475A4A69783763496A3270620A315757637157744F435658517961333056706F36467A75537362453646516B5641674D42414145774451594A4B6F5A496876634E4151454642514144675945410A4D756F4541322F746A79582F615952494B34774178365774444636676D6267567134566E7A755A714352356574527676496E6146305A6B5A47457741497A42450A6D47414D767A4755574867512B73545A384D3269764431396F724179484366637258335230584273765A72754C446E414C50425773373555777136567762726E0A7A64376A3043625A2B77416266325765644831654E7358644F514A4A67333978776B554D4D537761322B6B3D0A2D2D2D2D2D454E442043455254494649434154452D2D2D2D2D0A400000007F99A47418F91A74EE341F3E11584977885370FDBA798E10D85BE2771C5E40E99BA48DB0C307BD2C3CFE2E39FACFE920DCA7BBBC5F1B9DC79F2CEB5C5E695293"/>
+   <value data="6D000000000000000303B34F517CB5B5FEDB141EB44281C1B2FBA86E788C92E4EEBE727A388C7A979487D1BF00B0F54E92AD15B9F4D773B2EBEFCD9C6EA4B059D806084850B8CDAF1FB1981F2DAF05E614281D834AA030173D296A09F78952C10C6554166B2A3D99E03FE15E9B7E58A39117CECF135B0200002D2D2D2D2D424547494E2043455254494649434154452D2D2D2D2D0A4D4949426B5443422B3641444167454341674945306A414E42676B71686B694739773042415155464144412B4D517377435159445651514745774A44515445500A4D4130474131554543424D475558566C596D566A4D52347748415944565151444578567361574E6C626E4E6C6369353062323975596D39766253356A623230770A4868634E4D6A59774D5441324D5459794F4451355768634E4D7A59774D5441314D5459794F445135576A416A4D517377435159445651514745774A44515445550A4D424947413155454177774C56305643587A49794E4455334E6A4D775844414E42676B71686B6947397730424151454641414E4C41444249416B45416D762F6D0A6F644B797944794A4731572B3239754E744F6F6C345A4A6C6E4F732B446831572F524F67336E524C6F334849447A46595833654258514F7975394B6C526D46430A54346C476D344D424B716B635067756A66514944415141424D41304743537147534962334451454242515541413447424143674B393430622B4A49665A4F46750A4B6945702B624E6F5A3243376C65726A6D576E467275703268797579634B6F4A3775466F3764686F72354A5A4E736271324F6C724549746575544F57457441340A593537434E5948554B3175746D344B62436D6A5667646F7A36424E47714931635367334A76734A69586E6D316C544F7A66737972576A565846614C6438654C720A6557796552447962422F43457854432F32633870434773533133754D0A2D2D2D2D2D454E442043455254494649434154452D2D2D2D2D0A4000000043F194496A056EA8E062C6F299E5B2CD87B036BEFE2446CB212D001A4ADEB6E2D4AB8D447658DAE24A0CDBDD2652A3C7A01C8218DEFC798540D493820738C993"/>
   </meta>
  </metas>
 </project>
