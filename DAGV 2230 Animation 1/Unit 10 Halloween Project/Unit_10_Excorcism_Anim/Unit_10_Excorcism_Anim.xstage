@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<project  source="Harmony Premium (HarmonyPremium.exe) version 25.2.0 build 24991 2026-03-25 08:42:03" version="2520" build="24991" date="Fri Oct 30 07:26:34 2026" timeMsec="1793366794104" username="Brian" realUsername="Brian" creator="harmony">
+<project  source="Harmony Premium (HarmonyPremium.exe) version 25.0.0 build 23967 2025-06-05 18:44:20" version="2500" build="23967" date="Mon Nov 2 08:12:37 2026" timeMsec="1793632357598" username="11033142" realUsername="11033142" creator="harmony">
  <elements>
   <element id="1" elementName="BG" elementFolder="BG" pixmapFormat="2" scanType="2" fieldChart="12" vectorType="2" rootFolder="elements">
    <drawings>
@@ -3870,12 +3870,14 @@
     </column>
     <column type="3" name="ATV-0DDD5722B18181E3A50B5331" displayOrder="6" width="100" anonymous="true">
      <step val="1" start="1" stop="1"/>
+     <noFrames/>
      <points version="2">
       <pt constSeg="false" x="1,81-82,1223" yLocal="0" y="0"/>
      </points>
     </column>
     <column type="3" name="ATV-0DB0574FB1EE8102A50B5332" displayOrder="7" width="100" anonymous="true">
      <step val="1" start="1" stop="1"/>
+     <noFrames/>
      <points version="2">
       <pt constSeg="false" x="81" yLocal="-19.018968108274709" y="-19.018968108274709"/>
       <pt constSeg="false" x="82,1223" yLocal="0" y="0"/>
@@ -3884,42 +3886,49 @@
     </column>
     <column type="3" name="ATV-0D64579BB11E8136A50B5333" displayOrder="8" width="100" anonymous="true">
      <step val="1" start="1" stop="1"/>
+     <noFrames/>
      <points version="2">
       <pt constSeg="false" x="1,81-82,1223" yLocal="0" y="0"/>
      </points>
     </column>
     <column type="3" name="ATV-0DBE5741B1BB8143A50B5334" displayOrder="9" width="100" anonymous="true">
      <step val="1" start="1" stop="1"/>
+     <noFrames/>
      <points version="2">
       <pt constSeg="false" x="1,81-82,1223" yLocal="1" y="1"/>
      </points>
     </column>
     <column type="3" name="ATV-0D64579BB1A681A4A50B5335" displayOrder="10" width="100" anonymous="true">
      <step val="1" start="1" stop="1"/>
+     <noFrames/>
      <points version="2">
       <pt constSeg="false" x="1,81-82,1223" yLocal="1" y="1"/>
      </points>
     </column>
     <column type="3" name="ATV-0D8C5773B1A781F5A50B5336" displayOrder="11" width="100" anonymous="true">
      <step val="1" start="1" stop="1"/>
+     <noFrames/>
      <points version="2">
       <pt constSeg="false" x="1,81-82,1223" yLocal="0" y="0"/>
      </points>
     </column>
     <column type="3" name="ATV-0DBA5745B1D08120A50B5337" displayOrder="12" width="100" anonymous="true">
      <step val="1" start="1" stop="1"/>
+     <noFrames/>
      <points version="2">
       <pt constSeg="false" x="1,81-82,1223" yLocal="0" y="0"/>
      </points>
     </column>
     <column type="3" name="ATV-0DA4575BB1E68164A50B5384" displayOrder="13" width="100" anonymous="true">
      <step val="1" start="1" stop="1"/>
+     <noFrames/>
      <points version="2">
       <pt constSeg="false" x="1,81-82,1223" yLocal="0" y="0"/>
      </points>
     </column>
     <column type="3" name="ATV-0DA85757B1CD81EFA50B5385" displayOrder="14" width="100" anonymous="true">
      <step val="1" start="1" stop="1"/>
+     <noFrames/>
      <points version="2">
       <pt constSeg="false" x="81" yLocal="-16.815728975038784" y="-16.815728975038784"/>
       <pt constSeg="false" x="82,1223" yLocal="0" y="0"/>
@@ -3928,36 +3937,41 @@
     </column>
     <column type="3" name="ATV-0D3A57C5B1648126A50B5386" displayOrder="15" width="100" anonymous="true">
      <step val="1" start="1" stop="1"/>
+     <noFrames/>
      <points version="2">
       <pt constSeg="false" x="1,81-82,1223" yLocal="0" y="0"/>
      </points>
     </column>
     <column type="3" name="ATV-0DD65729B19E8164A50B5387" displayOrder="16" width="100" anonymous="true">
      <step val="1" start="1" stop="1"/>
+     <noFrames/>
      <points version="2">
       <pt constSeg="false" x="1,81-82,1223" yLocal="1" y="1"/>
      </points>
     </column>
     <column type="3" name="ATV-0D8F5770B149813FA50B5388" displayOrder="17" width="100" anonymous="true">
      <step val="1" start="1" stop="1"/>
+     <noFrames/>
      <points version="2">
       <pt constSeg="false" x="1,81-82,1223" yLocal="1" y="1"/>
      </points>
     </column>
     <column type="3" name="ATV-0DC4573BB1748150A50B5389" displayOrder="18" width="100" anonymous="true">
      <step val="1" start="1" stop="1"/>
+     <noFrames/>
      <points version="2">
       <pt constSeg="false" x="1,81-82,1223" yLocal="0" y="0"/>
      </points>
     </column>
     <column type="3" name="ATV-0D4C57B3B1D381C7A50B538A" displayOrder="19" width="100" anonymous="true">
      <step val="1" start="1" stop="1"/>
+     <noFrames/>
      <points version="2">
       <pt constSeg="false" x="1,81-82,1223" yLocal="0" y="0"/>
      </points>
     </column>
     <column type="0" name="ATV-0D2F57D0B15381C3A50B63C0" displayOrder="4" width="100" anonymous="true" id="5">
-     <elementSeq exposures="215-1358" val="1" id="5"/>
+     <elementSeq exposures="20-214,215-1358" val="1" id="5"/>
     </column>
    </columns>
    <options>
@@ -4142,7 +4156,6 @@
        <tileHorizontal val="false"/>
        <tileVertical val="false"/>
        <framerate val="-1" defaultValue="-1"/>
-       <useFileUnits val="false"/>
       </attrs>
      </module>
      <module type="READ" name="Unit_10_Halloween_Excorcism_Animatic" pos="262,-109,10" publishUnderTab="Unit_10_Halloween_Excorcism_Animatic">
@@ -4256,7 +4269,6 @@
        <tileHorizontal val="false"/>
        <tileVertical val="false"/>
        <framerate val="24" defaultValue="-1"/>
-       <useFileUnits val="false"/>
       </attrs>
      </module>
      <module type="READ" name="Gordon_Sketch" pos="-1000,-282,5" publishUnderTab="Pumpkin">
@@ -4370,7 +4382,6 @@
        <tileHorizontal val="false"/>
        <tileVertical val="false"/>
        <framerate val="24" defaultValue="-1"/>
-       <useFileUnits val="false"/>
       </attrs>
      </module>
      <module type="READ" name="Cultist" pos="-564,-231,6" publishUnderTab="Cultist">
@@ -4484,7 +4495,6 @@
        <tileHorizontal val="false"/>
        <tileVertical val="false"/>
        <framerate val="24" defaultValue="-1"/>
-       <useFileUnits val="false"/>
       </attrs>
      </module>
      <module type="COMPOSITE" name="Gordon_Composite" pos="-924,-216,15" publishUnderTab="Composite_1">
@@ -4923,7 +4933,6 @@
        <tileHorizontal val="false"/>
        <tileVertical val="false"/>
        <framerate val="24" defaultValue="-1"/>
-       <useFileUnits val="true"/>
       </attrs>
      </module>
     </nodeslist>
@@ -5012,7 +5021,7 @@
  </timeline>
  <metas>
   <meta type="checksumValidation" name="checksumValidation" creator="Harmony Premium" version="1.0">
-   <value data="6D00000000000000030357ABB59851511A3FF0FA50A66525561F4C8A9C6876000A5A969EDC689E737063355BE45411AA7649F15D103397560F0B29788A4054BD3CE2ECACB45C294BFB557CFBC94BE102F0CCF967AE44D4F3D9CD8EED136DB625E881B0F28FCED97D04DB05BA7F9ABC4775F32A2BF75B0200002D2D2D2D2D424547494E2043455254494649434154452D2D2D2D2D0A4D4949426B5443422B3641444167454341674945306A414E42676B71686B694739773042415155464144412B4D517377435159445651514745774A44515445500A4D4130474131554543424D475558566C596D566A4D52347748415944565151444578567361574E6C626E4E6C6369353062323975596D39766253356A623230770A4868634E4D6A59774D5441324D5459794F4451355768634E4D7A59774D5441314D5459794F445135576A416A4D517377435159445651514745774A44515445550A4D424947413155454177774C56305643587A49794E4455334E6A4D775844414E42676B71686B6947397730424151454641414E4C41444249416B45416D762F6D0A6F644B797944794A4731572B3239754E744F6F6C345A4A6C6E4F732B446831572F524F67336E524C6F334849447A46595833654258514F7975394B6C526D46430A54346C476D344D424B716B635067756A66514944415141424D41304743537147534962334451454242515541413447424143674B393430622B4A49665A4F46750A4B6945702B624E6F5A3243376C65726A6D576E467275703268797579634B6F4A3775466F3764686F72354A5A4E736271324F6C724549746575544F57457441340A593537434E5948554B3175746D344B62436D6A5667646F7A36424E47714931635367334A76734A69586E6D316C544F7A66737972576A565846614C6438654C720A6557796552447962422F43457854432F32633870434773533133754D0A2D2D2D2D2D454E442043455254494649434154452D2D2D2D2D0A40000000599D44F0AB25B225F8E931AD1061B64D845979C46402C38725B526EC6E871FDBF38386F3B28AC51BF01E52EA514B8CAC14394A70A1BE79CF0C103364F6D031F9"/>
+   <value data="6D000000000000000303DC203E13DADA91B47B71DB2DEEAEDD94C70117E3FD8B81D11D1557E315F8FBE8BED06FDF9A21FDC27AD69BB81CDD8480A2F301CBDF36B76967273FD7A2C070DEF77042C06A897B4772EC25CF5F785246056698E63DAE630A3B79044552F68F508E31F41137CCFE78A1A07C6B0200002D2D2D2D2D424547494E2043455254494649434154452D2D2D2D2D0A4D4949426E444343415157674177494241674943424E49774451594A4B6F5A496876634E4151454642514177506A454C4D416B474131554542684D43513045780A447A414E42674E5642416754426C46315A574A6C597A45654D4277474131554541784D5662476C6A5A57357A5A58497564473976626D4A7662323075593239740A4D423458445449324D444D784F5445324D5445784F566F5844544D324D444D784E7A45324D5445784F566F774C54454C4D416B474131554542684D43513045780A486A416342674E5642414D4D46564E47587A41774D576F774D4441774D44424D5958564662554642536A42634D413047435371475349623344514542415155410A413073414D4567435151446371555161785869466871643830497059547763495855496846724A4D7731706151384D5A4A5A4F68475A4A69783763496A3270620A315757637157744F435658517961333056706F36467A75537362453646516B5641674D42414145774451594A4B6F5A496876634E4151454642514144675945410A4D756F4541322F746A79582F615952494B34774178365774444636676D6267567134566E7A755A714352356574527676496E6146305A6B5A47457741497A42450A6D47414D767A4755574867512B73545A384D3269764431396F724179484366637258335230584273765A72754C446E414C50425773373555777136567762726E0A7A64376A3043625A2B77416266325765644831654E7358644F514A4A67333978776B554D4D537761322B6B3D0A2D2D2D2D2D454E442043455254494649434154452D2D2D2D2D0A400000003A8177799F934618DF07E792DBEF7F8A0F446EEBA77357A0C83F5F0BA0600D76F3ACC9A88E3251AD7A57686E14BDD2224AA89B0946D0F3F4F09D0C9CA942D2CF"/>
   </meta>
  </metas>
 </project>
